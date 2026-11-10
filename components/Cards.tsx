@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { publicationTypes, shownDate, type Publication, type News } from '@/lib/content';
+import { newsKinds, publicationTypes, shownDate, type Publication, type News } from '@/lib/content';
 
 export function PublicationCard({ p, cover = '' }: { p: Publication; cover?: '' | 'alt' | 'soft' }) {
   return (
@@ -22,8 +22,8 @@ export function NewsCard({ n }: { n: News }) {
   return (
     <Link href={`/news/${n.slug}/`} className="card">
       <div className="card-body">
-        <span className="tag">{n.kind === 'statement' ? 'Statement' : 'News'}</span>
-        <span className="card-title">{n.title}</span>
+        <span className="tag">{newsKinds[n.kind ?? 'news'] ?? 'News'}</span>
+        <span className="card-title" lang={n.lang ?? 'en'}>{n.title}</span>
         <span className="muted" style={{ fontSize: 15 }}>{shownDate(n)}</span>
         {n.summary && <p className="muted" style={{ fontSize: 16 }}>{n.summary}</p>}
       </div>

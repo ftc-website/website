@@ -1,0 +1,43 @@
+---
+title: "How to Combat Illicit Financial Flows During a Pandemic"
+date: 2021-03-17
+kind: blog
+summary: "Curbing illicit financial flows (IFFs) under typical conditions is difficult—but trying to do so on top of battling a pandemic is a recipe for even more challenges. From travel shutdowns to figuring out digital collaboration, the past year…"
+legacyUrl: "/combat-illicit-financial-flows-pandemic/"
+archive: true
+---
+Curbing illicit financial flows (IFFs) under typical conditions is difficult—but trying to do so on top of battling a pandemic is a recipe for even more challenges. From travel shutdowns to figuring out digital collaboration, the past year has been one of constant obstacles and struggles. In addition to everything the Covid-19 pandemic threw our way, it was clear that the opportunistic, criminal and corrupt elements that thrive on IFFs were well-positioned to exploit circumstances created by the pandemic, from corruption to misappropriation.
+
+Clearly, the past year was unlike any in recent memory.
+
+Still, during the past year, the Financial Transparency Coalition (FTC) has thrived, and even discovered a range of unique opportunities along the way. Overcoming those challenges, all while helping lead the fight against illicit financial flows, has led to a round of successes that not even a pandemic could stop.
+
+### ***FTC successes***
+
+  
+The FTC’s years of work to establish legal requirements for the disclosure of company ownership, also known as [beneficial ownership transparency](/issues/beneficial-ownership/), resulted in the adoption of beneficial ownership legislation in the [United States](https://news.bloombergtax.com/daily-tax-report/corporate-transparency-act-and-disclosure-of-beneficial-ownership) (US) and [Argentina](https://www.taxjustice.net/2020/04/20/argentina-finally-has-a-beneficial-ownership-register-now-it-should-make-it-public/). At last, two of the biggest countries in the Western Hemisphere will require disclosures about the beneficial owners of all types of companies, even shell companies—a clear victory in the broader fight against financial secrecy.
+
+The FTC also achieved progress in increasing effective participation of developing countries in the [Common Reporting System](https://www.oecd.org/tax/automatic-exchange/common-reporting-standard/) (CRS), especially as it relates to the [automatic exchange of information](/issues/automatic-tax-information-exchange/) (AEOI)—key tools in revealing assets held offshore. In 2020, [Germany](https://www.taxjustice.net/2020/08/21/germanys-new-statistics-on-exchange-of-banking-information-a-trove-of-useful-data-and-clues/) and [Australia](https://www.taxjustice.net/2020/08/10/developing-countries-take-note-how-much-money-do-your-residents-hold-in-australia-the-most-transparent-country-on-bank-account-information/) began publishing basic information on accounts held in their countries by residents from all jurisdictions, including Africa, Latin America and Southeast Asia. The groundbreaking [CRS](https://www.oecd.org/tax/automatic-exchange/common-reporting-standard/), the most comprehensive AEOI system yet in place, is the direct result of the FTC’s intense, sustained advocacy, as well as expert technical contributions toward designing, implementing, and improving the CRS.
+
+Meanwhile, driven by the pandemic and resulting economic slowdown, pre-existing inequities stemming from illicit financial flows—especially as it pertains to disparities between rich and poor communities and countries—only continued to grow. To address these concerns, the [Centre for Budget and Governance Accountability](https://www.cbgaindia.org/) (CBGA), an FTC member, published a [report](https://www.cbgaindia.org/study-report/numbers-edge-assessing-indias-fiscal-response-covid-19/) assessing India’s fiscal response to Covid-19. 
+
+This work is the culmination of over two years of the Coalition’s collaborative research on tax incentives. More importantly, this work helped kick off a flagship FTC tool that the Coalition intends to launch in the spring of 2021—*The Covid Bailout Tracker*, also called *The People’s Recovery*. This forthcoming tool will measure and track corporate bailouts and other tax incentives offered by select countries and compare them with national social protection measures for citizens, all while maintaining perspectives on gender and environmental justice.
+
+*The Covid Bailout Tracker* will also build upon the FTC’s significant progress in shifting norms and perceptions toward progressive tax policies and regimes among influential stakeholders and decision-makers. In consultation with the [United Nations Financial Accountability, Transparency, and Integrity (FACTI) Panel’s](https://www.factipanel.org/) country and regional delegations, the FTC has played a critical role in a global paradigm shift regarding the characterization of [tax abuse as a human rights issue](/financial-transparency-coalitions-response-facti-panels-interim-report/).  
+> ***The FTC played a key role in the framing of offshoring and financial secrecy as something that impacts not just budget sheets, but rights and resources to which all citizens are entitled.***
+
+  
+All the while, governments and financial institutions are deploying tremendous amounts of money on resources, services and support to citizens at a rate in which oversight is clearly outmatched. Absent proper oversight and transparency, the new loans and stimulus packages are ripe for abuse. However, the FTC has helped propel transparency efforts for these significant financial injections. For instance, as a reaction to the scale and reach of the International Monetary Fund’s (IMF) Covid-19 financial assistance, FTC members successfully influenced how the IMF is promoting [transparency](https://www.imf.org/en/About/Factsheets/Sheets/2020/04/30/how-imf-covid19-financial-help-is-used) and [accountability](https://www.transparency.org/en/tracking-the-trillions) in [spending](https://www.theguardian.com/business/2020/apr/15/spend-what-you-can-to-fight-covid-19-imf-tells-member-states).
+
+The FTC has even managed to marry that increased oversight directly to our broader core issues. In the European Union (EU), FTC members successfully influenced officials to integrate public [CBCR](/issues/country-by-country-reporting/) information for multinational corporations that are receiving state support in response to Covid-19, effectively forcing these multinationals to reveal how much they’re paying in terms of taxes — and where. After two years of deadlock on the issue in the EU, [recent developments](https://www.euractiv.com/section/eu-council-presidency/news/portugal-wins-eu-support-for-corporate-tax-transparency-law/) indicate that Europe may finally implement overdue CBCR reforms, and the FTC is committed to making the most of this building momentum.  
+
+### ***What comes next?***
+
+  
+When it comes to victories on the ABCs of transparency (automatic exchange of information, beneficial ownership transparency, and country-by-country reporting) — the past year has clearly been one of ongoing successes for the FTC and its Coalition members. But there’s no reason to stop now.
+
+Nor is there any reason to forget all the lessons we have learned while working through a pandemic. The FTC and its members have become experts at holding meetings and events, as well as conducting all types of advocacy, virtually. The Coalition has learned to mobilize support among allies and decision-makers effectively, and to exchange information and intelligence under lockdown conditions. Impressively, the Coalition has also implemented online translation capabilities, connecting allies and members throughout the Global North and South that much further.
+
+Ultimately, with all the changes to FTC’s work brought on by the pandemic, the Coalition and its members had to adapt quickly to meet obligations that would have implications well beyond 2020. With a new three-year strategic plan taking us through 2023, the Coalition is energized to make the most of increased capacities to navigate digital meetings and build the field of all types of stakeholders that are able and willing to take on IFFs. The FTC is zeroing in on breaking the links between tax abuse and financial secrecy and all types of abuses against people and the planet. The time has never been better to be advocating for tax fairness and financial transparency.
+
+The past year has been difficult, without a doubt. But with these successes and more already under our belt, the future is bright for the FTC, its Coalition members, and everyone calling for financial transparency and tax justice.

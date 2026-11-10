@@ -1,0 +1,32 @@
+---
+title: "EU Court of Justice Ruling on Beneficial Ownership, a Major Blow to the Fight Against Environmental Crimes"
+date: 2022-12-12
+kind: op-ed
+summary: "The European Court of Justice on November 22, 2022, made a ruling that reversed much of the progress we have madein a decade in the fight against corruption, economic and natural resource crimes, tax abuses and other forms of illicit…"
+legacyUrl: "/european-court-justice-ruling-beneficial-ownership-major-blow-fight-environmental-crimes/"
+archive: true
+---
+The European Court of Justice on November 22, 2022, made a ruling that reversed much of the progress we have madein a decade in the fight against corruption, economic and natural resource crimes, tax abuses and other forms of illicit financial flows across the world. In the ruling, [the court declared invalid](https://curia.europa.eu/jcms/upload/docs/application/pdf/2022-11/cp220188en.pdf) the part of the European Union’s [Anti Money Laundering Directive](https://ec.europa.eu/info/law/anti-money-laundering-amld-v-directive-eu-2018-843_en) that allowed public access to registries about companies’ beneficial owners (that is, the real people who own or actually control them).  
+
+This has a direct impact in the fight against environmental crimes, particularly illegal, unreported and unregulated (IUU) fishing which is devastating the world’s fisheries resources, [accounting for up to one-fifth of global catches](https://www.fao.org/iuu-fishing/fight-iuu-fishing/en/).
+
+  
+The financial secrecy surrounding the owners of vessels is a key driver of IUU fishing as secrecy makes it harder to catch the real perpetrators of this illegal trade. In a report published by the Financial Transparency Coalition in October 2022, we discovered that among the top 10 operators of vessels reported to be engaged in this illicit practice, one was based in Spain [while a total of 30 vessels were flagged to Italy](/wp-content/uploads/2022/10/FTC-fishy-Network-OCT-2022-Final.pdf), making it the highest European flag jurisdiction for IUU fishing. In total, we found that 12.8% of all vessels engaged in IUU fishing were flagged to a European country.
+
+The ECJ ruling makes it impossible for a member of the public to investigate these linkages further. In Spain and Italy, the commitment to open up the registry was made in principle but remains unimplemented. This decision takes all pressure off to implement open beneficial ownership registries in these two countries that are most responsible for IUU fishing in the continent.
+
+This is a welcome present to owners of IUU fishing vessels who often use [complex corporate structures to hide their identities and evade punishment](https://shoc.rusi.org/blog/the-role-of-beneficial-ownership-in-combating-iuu-fishing/). Underscoring this problem, in our investigation we found the individual shareholder data was only available for 16% of industrial and semi-industrial vessels engaged in IUU fishing.
+
+But the ECJ’s ruling impact will be felt well beyond Europe’s borders. Most of the world’s IUU fishing takes place in Africa which loses [US$11.5bn in illicit financial flows linked to IUU fishing every year](/wp-content/uploads/2022/10/FTC-fishy-Network-OCT-2022-Final.pdf). A significant proportion of this illicit catch in Africa is caught in West Africa, with US$9.5bn losses in this region alone, with much of the fish caught there by foreign fleets ending up in Europe. In total, the European continent imports some [US$14bn worth of seafood from the global South](https://www.cbi.eu/market-information/fish-seafood/what-demand) each year, making it a key market for seafood products.
+
+The court’s decisions rested on a narrow interpretation of the purpose of the beneficial ownership registry, limited to fighting money laundering and terrorist financing. Fishing related offences are not yet recognised as ‘natural resource crimes’ by the Financial Action Task Force (FATF), the global anti-money laundering regulator, while illegal logging and illegal wildlife trade (IWT) related offences are already included in their definition of what constitutes money laundering. If this were to be upgraded by FATF, we could claim most, if not all, IUU fishing offences as money laundering crimes.
+
+The ECJ decision also rests on a narrow interpretation of the ‘right to private life’ as a fundamental civil right as subscribed in the EU Charter of Fundamental Rights of the European Union that partly lays the legal foundation for the EU. Worryingly, the court did not consider any evidence of the benefits of public access to beneficial ownership information in both fighting money laundering and terrorist financing, let alone the risks that natural resource crimes pose to other rights, such as the [right to a healthy environment recognised as a human right by the UN General Assembly in 2022](https://www.bmj.com/content/378/bmj.o2313#:~:text=Drawing%20from%2050%20years%20of,%2C%20and%20bio%2Ddiversity%20loss.).
+
+Ultimately, the real winners of this ruling are the thousands of companies engaged in IUU fishing and other environmental crimes across the world, and which benefit from money laundering at the tune of billions of euros per year. The ruling undermines collective action to make the money trail of these crimes more traceable, at a time when countries especially in the global South are desperate for funds amid a cost of living crisis and high inflation.
+
+Reacting to the ruling, the [European Council](https://www.consilium.europa.eu/en/press/press-releases/2022/12/07/anti-money-laundering-council-agrees-its-position-on-a-strengthened-rulebook/) signalled that member states should ensure that any natural or legal person demonstrating a legitimate interest has access to information held in the beneficial ownership registers, including especially journalists and civil society organisations as long as they can demonstrate legitimate interest in relation with fighting money laundering and terrorist financing.
+
+However, this is insufficient since this will likely only apply to journalists and civil society in the same country as the registry, and application processes generally take a long time. Also one will need to know the company of interest before accessing any information, blocking the option of looking through public registries to spot risks and red flags.
+
+The EU Parliament should be expected to start negotiations on a new anti-money laundering directive next spring. It must not allow the ECJ ruling to stand, for everyone’s sake.

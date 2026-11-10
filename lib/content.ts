@@ -49,7 +49,16 @@ export type Publication = Entry & {
   legacyUrl?: string;
 };
 
-export type News = Entry & { kind?: 'news' | 'statement' | 'blog' };
+export type News = Entry & {
+  kind?: 'news' | 'statement' | 'blog' | 'op-ed' | 'video';
+  lang?: string;
+  archive?: boolean;
+  legacyUrl?: string;
+};
+
+export const newsKinds: Record<string, string> = {
+  news: 'News', statement: 'Press release', blog: 'Blog', 'op-ed': 'Op-ed', video: 'Video',
+};
 export type Event = Entry & { start: string; end?: string; place?: string; link?: string };
 
 function readDir<T extends Entry>(dir: string): T[] {

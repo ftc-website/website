@@ -8,7 +8,10 @@ cover: /wp-content/uploads/2022/10/Screenshot-2022-10-25-123213.png
 summary: "Africa concentrates 48.9% of identified industrial and semi-industrial vessels involved in illegal, unreported and unregulated fishing, with developing countries losing billions in related illicit financial flows every year."
 legacyUrl: "/reports/fishy-networks-uncovering-companies-individuals-behind-illegal-fishing-globally/"
 languages:
-  - { lang: en, label: English, file: /wp-content/uploads/2022/10/FTC-fishy-Network-OCT-2022-Final.pdf }
+  - { lang: en, label: "Full report · English (revised March 2024)", file: /wp-content/uploads/2024/04/FTC-Eng-Fishy-Network-Report-March-2024-V02.pdf }
+  - { lang: en-sum, label: "Executive summary · English", file: /wp-content/uploads/2024/04/FTC-Ex-Sum-Eng-fishy-Network-March-2024-V02.pdf }
+  - { lang: es-sum, label: "Executive summary · Español", file: /wp-content/uploads/2024/04/FTC-Ex-Sum-ESP-fishy-Network-March-2024-V02.pdf }
+  - { lang: en-2022, label: "Original edition · October 2022", file: /wp-content/uploads/2022/10/FTC-fishy-Network-OCT-2022-Final.pdf }
 ---
 
 Africa concentrates 48.9% of identified industrial and semi-industrial vessels involved in illegal, unreported and unregulated (IUU) fishing, 40% in West Africa alone, which has become a global epicentre for these activities.

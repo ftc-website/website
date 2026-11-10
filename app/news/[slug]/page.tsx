@@ -23,7 +23,12 @@ export default async function NewsPage({ params }: { params: Promise<{ slug: str
       <PageHead eyebrow={shownDate(n)} title={n.title} summary={n.summary} />
       <section className="section">
         <div className="container">
-          <div className="prose" dangerouslySetInnerHTML={{ __html: n.html }} />
+          {n.archive && (
+            <p className="muted" style={{ fontSize: 15, padding: '10px 14px', background: 'var(--mist)', borderRadius: 6, maxWidth: 760, marginBottom: 24 }}>
+              From the FTC archive. This page was migrated from the previous website.
+            </p>
+          )}
+          <div className="prose" lang={n.lang ?? 'en'} dangerouslySetInnerHTML={{ __html: n.html }} />
         </div>
       </section>
     </>

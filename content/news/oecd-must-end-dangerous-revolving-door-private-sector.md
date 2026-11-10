@@ -1,0 +1,27 @@
+---
+title: "OECD must end dangerous revolving door with private sector"
+date: 2022-10-26
+kind: blog
+summary: "Outgoing head of the OECD Centre for Tax Policy and Administration (CTPA), Pascal Saint-Amans will be joining private sector lobbying firm Brunswick Group on November 1.This shows the lack of integrity on ‘revolving door’ phenomenon at the…"
+legacyUrl: "/oecd-must-end-dangerous-revolving-door-private-sector/"
+archive: true
+---
+Outgoing head of the OECD Centre for Tax Policy and Administration (CTPA), Pascal Saint-Amans will be joining private sector lobbying firm Brunswick Group on November 1.***This shows the lack of integrity on ‘revolving door’ phenomenon at the OECD, questioning progress on key global tax initiatives,*writes Matti Kohonen, executive director of Financial Transparency Coalition.**
+
+The Brunswick Group itself presents the problem in its own**[words](https://www.brunswickgroup.com/pascal-saint-amans-joins-brunswick-group-as-a-partner-i22150/)**:
+
+“Pascal has been at the centre of the biggest changes to the international tax framework in a generation. Drawing on his deep experience at the OECD and in politics, he is extremely well-placed to advise organizations on how to engage key stakeholders on tax and other critical policy issues.”
+
+Brunswick then goes on to highlight that they expect him to act as a lobbyist, and to make use of information and experience gained in public office. All this while Saint-Amans remains at the OECD until October 31st, taking part in key negotiations such as the establishment of a minimum corporate tax and the OECD Inclusive Forum (IF) process in which he has been intricately involved.  
+ This entire scenario openly contradicts the**[OECD’s own 2010 *Recommendation Principles for Transparency and Integrity in Lobbying*](https://www.oecd.org/gov/ethics/oecdprinciplesfortransparencyandintegrityinlobbying.htm)**implemented by a number of member states, calling on imposing restrictions for public officials leaving office “to prevent conflict of interest when seeking a new position, to inhibit the misuse of ‘confidential information’, and to avoid post-public service ‘switching sides’ in specific processes in which the former officials were substantially involved.” The principles also recommend “a ‘cooling-off’ period that temporarily restricts former public officials from lobbying their past organisations.”  
+Other international organisations are more advanced in terms of preventing conflicts of interests.**[Guidelines](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32018D0221(02))**developed in the EU Commission, for instance, require a cooling off period for senior staff for a period of 12 months, banning them from lobbying or advising lobbying in this European institution.
+
+At a minimum Pascal Saint-Amans should agree to not lobby the OECD or any of the member states while he remains in his current role. But he has failed to do that.  
+ If he is part of efforts to shape through effective business lobby advocacy conversations and outcomes in a campaign style approach, it may lead to altering the political dynamics of the Inclusive Framework. This is a wider concern already highlighted in the process, as the G-24 intergovernmental group, the African Tax Administrators Forum (ATAF), and the intergovernmental South Centre have voiced concerns that they are much less heard than high-income country groups like the European Union (EU) and the G7.  
+After all, the Brunswick Group advises businesses in lobbying governments that are members of the OECD, and possibly thus altering positions that some governments may take in the future regarding the Inclusive Framework.  The**[Brunswick Group states](https://www.brunswickgroup.com/what-we-do/practice-groups/regulation-public-policy/)** in quite plain language that “government regulations and scrutiny can directly impact a company’s bottom line. Lobbying remains essential, but alone it is no longer sufficient. Effective advocacy, consistent engagement, and the ability to shape conversations and outcomes require a campaign-style approach.”
+
+This issue also raises broader serious concerns at the OECD, as the secretariat has long publicly claimed that it seeks to give civil society the same access as it does to lobbyists from the private sector. However, just last year this was confirmed in spectacular style when the [**main business lobby group wrote publicly to the OECD**](https://www.law360.com/tax-authority/articles/1441765/business-reps-sidelined-in-oecd-tax-revamp-letter-says), detailing the hitherto unknown set of working groups and special channels established for their benefit – and claiming it still allowed them insufficient influence.
+
+An urgent independent ethics review on the relationship of the OECD, the CTPA in particular, and the private sector is required. The terms of reference for such a review should include this specific appointment, and the apparent absence of any safeguards on cooling off periods and how to manage conflicts of interest – present and future. The review should also evaluate the degree of private sector access to the OECD’s process for setting international tax rules, comparing this to national best practice for transparency and integrity in lobbying. Lastly, the review should consider and recommend policies to ensure that the OECD can end the “revolving door phenomenon”.
+
+These shady practices cannot be allowed to stand, for everyone’s sake.

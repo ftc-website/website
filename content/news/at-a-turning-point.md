@@ -1,0 +1,21 @@
+---
+title: "At a Turning Point?"
+date: 2020-01-23
+kind: blog
+summary: "The present financial system has been intentionally created and is jealously protected. How will it change?"
+legacyUrl: "/at-a-turning-point/"
+archive: true
+---
+*The present financial system has been intentionally created and is jealously protected. How will it change?*
+
+The twelve member organizations that make up the Financial Transparency Coalition work across two different but closely connected worlds. The first of these is the world of illegal and corrupt finance. A world of bribes paid, money stolen. Of fortunes deliberately and knowingly hidden. Of outright illegality and criminality. The second is the world of ‘grey areas’ that sit between legality and illegality. A world of clever games, complex structures. Tax breaks handed out in shady deals and rules deliberately (and often openly) flouted. A world of abusive tax practices and of fortunes ‘saved’ from the taxman. Corruption scandals and corporate impunity have convulsed countries across the world – citizens are demanding change.
+
+2020 will see the convergence of multiple political and multilateral processes to help curtail IFFs. Despite efforts to update the global financial architecture, tax policies and the definition of IFFs, responses remain piecemeal and contradictory. As states across the globe face a growing crisis of legitimacy, citizen’s rights are frustrated, in the Global South above all. Without tackling IFFs, and the system that supports them, without finding a way to turn frustration into action, it is hard to envisage a positive path ahead. FTC plays a unique role in challenging the pernicious effect of illicit financial flows. As a group of expert civil society advocates, the Coalition convenes policy makers and influential actors to challenge the status quo, including regional tax bodies, global institutions, government officials, civil society, journalists and other stakeholders.
+
+The [8th conference of the Financial Transparency Coalition](/conferences/2020-bangkok-boiling-point-turning-point-8th-financial-transparency-conference/) will explore how to ensure the demands of countries and their citizens for tax reform and financial transparency are finally met. The conference will be held in Bangkok on the 1-2 April, with a special focus on the Asian region. We will hear from representatives of governments, regional and global inter-governmental bodies, global labour unions, civil society, journalists and technical experts. We have much to build on. As well as seven previous global conferences, the FTC hosted its first ‘Pan-Continental Southern dialogue’ in Nairobi just over a year ago. In 2019 alone, FTC members hosted regional events on IFFs in Asia, [Africa](http://panconfifftax.net/) and [Latin America](/parliamentarians-tax-justice-transparency/). In 2018 FTC members helped to launch the [Kathmandu Declaration](/kathmandu-declaration-curbing-illicit-financial-flows/) on curbing illicit financial flows.
+
+FTC´s mission requires a focus on the impacts of illicit flows upon the most vulnerable people, considering human rights, women’s rights and gender equality. When finance is redirected away from public spending there are real-life repercussions - less funding for public services, increased inequality along with shrinking democracy. And those repercussions are the same regardless of the technical legality or otherwise of the actions behind the impacts.
+
+If secrecy underpins the system, then we must open it to scrutiny by reforming the international institutional architecture’s inherited geopolitical imbalance and implementing public Country by Country Reporting, public registers of Beneficial Ownership and Automatic Exchange of banking information between tax authorities. We must challenge the gatekeepers of illicit financial flows, including banks and accountancy firms, and the harmful tax breaks provided without economic rationale or any form of public scrutiny.
+
+Wresting back control of this system will require effective coordination between civil society and government agencies and amongst countries with common interests. The 8th FTC Conference will help convene experts, officials and advocates to ensure this moment is a turning point against the tide of illicit finance.

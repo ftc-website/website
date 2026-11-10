@@ -1,0 +1,17 @@
+---
+title: "FTC Statement on 2021 World Bank-IMF Spring Meetings"
+date: 2021-04-08
+kind: blog
+summary: "With the 2021 World Bank and IMF Spring Meetings beginning this month, FTC Director Matti Kohonen issued the following statement regarding tax justice, financial transparency, and the ending of illicit financial flows:"
+legacyUrl: "/ftc-statement-2021-world-bank-imf-spring-meetings/"
+archive: true
+---
+With the 2021 World Bank and IMF Spring Meetings beginning this month, FTC Director Matti Kohonen issued the following statement regarding tax justice, financial transparency, and the ending of illicit financial flows:
+
+*"The 2021 World Bank and IMF Spring Meetings couldn't come at a more important time, both in terms of the Covid-19 pandemic and the need to mobilise more financing for development—especially by reducing illicit financial flows that drain resources from developing countries. Ensuring that a just financial recovery that prioritises people over corporations is put in place, and that puts the needs of those impacted by the crisis first and foremost, is a clear necessity. The past year has shown just how many financial fault-lines remain. The richest have got even richer during the crisis, while the number of those living in extreme poverty is due to increase by 90-150 million by the end of 2021. However, this outcome isn't inevitable—especially if countries are encouraged to immediately prioritise social protections for those most impacted by the crisis, and if we set expectations about progressive tax policies that genuinely raise revenues in a progressive manner from those with high incomes and net wealth.*
+
+*"The key ongoing discussions are about how imbalanced the economic response and recovery have already been. This goes for countries with an imbalanced approach toward corporate support, which has reduced support for people impacted by the crisis. This imbalance also goes for the discrepancies between countries in the Global North, which are seeing high levels of stimulus spending, and the Global South, which has seen increasing rates of poverty.*
+
+*"This situation provides a historic opportunity to galvanise political will at both the IMF and the World Bank to finally agree to core demands on financial transparency—namely by promoting [public beneficial ownership registries](/issues/beneficial-ownership/), [public country-by-country reporting](/issues/country-by-country-reporting/), and [the automatic exchange of tax information](/issues/automatic-tax-information-exchange/). While the IMF and the World Bank do not oppose these measures, they should finally take the decision to adopt them as targets for recovery policies in the fields of transparency, governance, and tax policy. These measures not only raise more revenue and widen fiscal space, but they also prevent the misuse of recovery spending and the misuse of any IMF or World Bank loans. Company and trust ownership transparency is a clear deterrent to such corruption, tackling and revealing the facilitators of corruption at their source.*
+
+*"Pushing for financial transparency, for more equitable tax systems, and for policies that will end illicit financial flows will help create a more just pandemic response. The FTC is happy to take the lead in pushing for these policies, and we look forward to working with the World Bank and the IMF, and all those attending this year's Spring Meetings, to help craft ideas and changes that will prioritize people, rather than corporations."*

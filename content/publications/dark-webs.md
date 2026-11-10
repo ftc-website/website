@@ -8,7 +8,9 @@ cover: /wp-content/uploads/2023/11/Screenshot-2023-11-15-071140_EN.png
 summary: "22.5% of industrial and semi-industrial fishing vessels accused of forced labour were owned by European companies; companies from five countries own almost two-thirds of accused vessels with known ownership."
 legacyUrl: "/reports/dark-webs-uncovering-behind-forced-labour-commerical-fishing-fleets/"
 languages:
-  - { lang: en, label: English, file: /wp-content/uploads/2023/11/FTC_2023-Report_Dark-webs_EN.pdf }
+  - { lang: en, label: "Full report · English", file: /wp-content/uploads/2023/11/FTC_2023-Report_Dark-webs_EN.pdf }
+  - { lang: en-sum, label: "Executive summary · English", file: /wp-content/uploads/2023/11/FTC_2023-Ex-Sum_Dark-webs_EN.pdf }
+  - { lang: es-sum, label: "Executive summary · Español", file: /wp-content/uploads/2023/11/FTC_2023-Ex-Sum_Dark-webs_ESP.pdf }
 ---
 
 A report by the Financial Transparency Coalition and members finds that 22.5% of industrial and semi-industrial fishing vessels accused of forced labour were owned by European companies, topped by Spain, Russia and UK firms, although the majority of companies are from Asia, especially Chinese.
