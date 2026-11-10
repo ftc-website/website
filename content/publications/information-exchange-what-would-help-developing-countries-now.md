@@ -7,6 +7,7 @@ legacyUrl: "/reports/information-exchange-what-would-help-developing-countries-n
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/InfoEx0609.pdf" }
 archive: true
+cover: /files/covers/information-exchange-what-would-help-developing-countries-now.jpg
 ---
 
 Richard Murphy from the Tax Justice Network and Tax Research UK published this discussion paper outlining a plan for automatic exchange of tax information.

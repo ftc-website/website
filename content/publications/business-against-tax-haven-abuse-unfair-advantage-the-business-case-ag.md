@@ -7,6 +7,7 @@ legacyUrl: "/reports/business-against-tax-haven-abuse-unfair-advantage-the-busin
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Unfair-Advantage-The-Business-Case-Against-Overseas-Tax-Havens.pdf" }
 archive: true
+cover: /files/covers/business-against-tax-haven-abuse-unfair-advantage-the-business-case-ag.jpg
 ---
 
 A new Business Against Tax Havens report, ‘Unfair Advantage: The Business Case Against Overseas Tax Havens,’ looks at the unfair advantages that large companies have as a result of tax evasion and the amount of revenue lost in tax havens. The report puts forth nine policy recommendations, which include banning offshore corporations and repealing the 80/20 rule.

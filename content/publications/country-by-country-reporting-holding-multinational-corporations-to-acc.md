@@ -7,6 +7,7 @@ legacyUrl: "/reports/country-by-country-reporting-holding-multinational-corporat
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Final_CbyC_Report_Published.pdf" }
 archive: true
+cover: /files/covers/country-by-country-reporting-holding-multinational-corporations-to-acc.jpg
 ---
 
 **Global Task Force Releases Recommendations for New Accounting System for Multinational Corporations**

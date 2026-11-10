@@ -7,6 +7,7 @@ legacyUrl: "/reports/ti-report-transparency-in-reporting-on-anti-corruption-a-re
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/2009_06_19_Final-TRAC-Report-web-pdf.pdf" }
 archive: true
+cover: /files/covers/ti-report-transparency-in-reporting-on-anti-corruption-a-report-of-cor.jpg
 ---
 
 From [Transparency International](http://www.transparency.org/news_room/latest_news/press_releases/2009/2009_06_19_trac_press_release):

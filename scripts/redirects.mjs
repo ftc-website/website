@@ -16,10 +16,10 @@ for (const [dir, base] of Object.entries(sections)) {
   const full = path.join(root, 'content', dir);
   if (!fs.existsSync(full)) continue;
   for (const f of fs.readdirSync(full).filter((x) => x.endsWith('.md'))) {
-    const { data } = matter(fs.readFileSync(path.join(full, f), 'utf8'));
+    const { data, content } = matter(fs.readFileSync(path.join(full, f), 'utf8'));
     if (!data.legacyUrl) continue;
     const slug = f.replace(/\.md$/, '');
-    const to = dir === 'events' ? base : `${base}${slug}/`;
+    const to = dir === 'events' ? (!data.link && content.trim() ? `${base}${slug}/` : data.link || base) : `${base}${slug}/`;
     if (data.legacyUrl !== to) rules.push([data.legacyUrl, to]);
   }
 }
@@ -31,6 +31,7 @@ const fixed = [
   ['/reports/toolkit-illicit-financial-flows/:path+', '/publications/toolkit-illicit-financial-flows/'],
   ['/issues/', '/our-work/global-charter/'],
   ['/issues/:path*', '/our-work/global-charter/'],
+  ['/conferences/8va-conferencia-internacional-sobre-flujos-financieros-ilicitos-multiples-crisis-y-gobernanza-fiscal-global/', '/events/8th-international-conference-iffs/'],
   ['/conferences/', '/events/'],
   ['/conferences/:path*', '/events/'],
   ['/about-us/', '/about/'],
@@ -54,6 +55,7 @@ const ht = [
   'RewriteRule ^materials/?$ /publications/ [R=301,L]',
   'RewriteRule ^reports/toolkit-illicit-financial-flows/.+ /publications/toolkit-illicit-financial-flows/ [R=301,L]',
   'RewriteRule ^issues(/.*)?$ /our-work/global-charter/ [R=301,L]',
+  'RewriteRule ^conferences/8va-conferencia-internacional-sobre-flujos-financieros-ilicitos-multiples-crisis-y-gobernanza-fiscal-global/?$ /events/8th-international-conference-iffs/ [R=301,L]',
   'RewriteRule ^conferences(/.*)?$ /events/ [R=301,L]',
   'RewriteRule ^about-us/?$ /about/ [R=301,L]',
   'RewriteRule ^(category|tag)/ /news/ [R=301,L]',

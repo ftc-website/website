@@ -7,6 +7,7 @@ legacyUrl: "/reports/g20-action-on-tax-and-development-a-progress-report-card/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/48993634.pdf" }
 archive: true
+cover: /files/covers/g20-action-on-tax-and-development-a-progress-report-card.jpg
 ---
 
 Back in September I was sitting in the salubrious office of an official from one of International Financial Institutions – when he slouched back in his chair, sighed and said ‘I can’t even bear to read those G20 communiqués – they are so vacuous.’ That evening, I found myself at a dinner hosted by DC law firm Jones Day where former Mexican President Zedillo branded the G20 ‘a disappointment.’

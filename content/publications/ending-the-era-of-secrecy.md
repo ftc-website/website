@@ -6,6 +6,7 @@ summary: The coalition's strategy for 2026–2030, with the ABC-DEFG of Financia
 pillars: [A, B, C, D, E, F, G]
 languages:
   - { lang: en, label: English, file: /files/ending-the-era-of-secrecy-strategy-2026-2030.pdf }
+cover: /files/covers/ending-the-era-of-secrecy.jpg
 ---
 
 The global financial and economic system faces a crisis of austerity and rising inequality of wealth and income, coupled with an ecological breakdown driven by the illicit overexploitation of fisheries, forestry, minerals and land.

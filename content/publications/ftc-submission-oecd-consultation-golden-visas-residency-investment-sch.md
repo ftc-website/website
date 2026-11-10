@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-oecd-consultation-golden-visas-residency-i
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2018/04/FTC-submission-to-OECD_Preventing-Abuse-of-Residence-By-Investment-Schemes-to-Circumvent-the-CRS-.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-oecd-consultation-golden-visas-residency-investment-sch.jpg
 ---
 
 *Submission Date: 16 March 2018*

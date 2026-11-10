@@ -7,6 +7,7 @@ legacyUrl: "/reports/keeping-redd-clean-a-step-by-step-guide-to-preventing-corru
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/2012_KeepingREDDClean_EN.pdf" }
 archive: true
+cover: /files/covers/keeping-redd-clean-a-step-by-step-guide-to-preventing-corruption.jpg
 ---
 
 This manual helps interested parties to understand and address corruption risks associated with forest carbon accounting – particularly REDD+ – programmes and strategies at the national level. Users will learn how to identify corruption risks and instruments to help address these risks within the development of national Reducing Emissions from Deforestation and Forest Degradation (REDD+) action plans and strategies, and the implementation of REDD+ and other forest carbon projects.

@@ -7,6 +7,7 @@ legacyUrl: "/reports/2011-financial-secrecy-index/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/FSI-Homepage.pdf" }
 archive: true
+cover: /files/covers/2011-financial-secrecy-index.jpg
 ---
 
 The 2011 Financial Secrecy Index (FSI) focuses on 73 secrecy jurisdictions.  These places set up laws and systems which provide legal and financial secrecy to others, elsewhere.

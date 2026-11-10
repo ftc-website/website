@@ -7,6 +7,7 @@ legacyUrl: "/reports/tax-us-if-you-can-why-africa-should-stand-up-for-tax-justic
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/tuiyc_africa_final.pdf" }
 archive: true
+cover: /files/covers/tax-us-if-you-can-why-africa-should-stand-up-for-tax-justice.jpg
 ---
 
 Tax is the foundation of all civilisations. The act of tracing tax policies and practices reveals the history of the relationship between the ruler and the ruled, state and citizen.

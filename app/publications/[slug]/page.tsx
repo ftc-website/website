@@ -32,6 +32,9 @@ export default async function PublicationPage({ params }: { params: Promise<{ sl
             <div className="prose" lang={p.lang ?? 'en'} dangerouslySetInnerHTML={{ __html: p.html }} />
           </div>
           <aside style={{ flex: '1 1 260px' }} className="stack">
+            {p.cover && (
+              <img src={p.cover} alt={`Cover of ${p.title}`} style={{ width: '100%', maxWidth: 260, height: 'auto', border: '1px solid var(--line)' }} />
+            )}
             {(p.languages ?? []).length > 0 && (
             <div className="stack" style={{ gap: 10, padding: 20, background: 'var(--mist)', borderRadius: 10 }}>
               <strong>Download</strong>

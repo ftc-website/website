@@ -7,6 +7,7 @@ legacyUrl: "/materials/why-public-country-by-country-reporting-for-large-multina
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2016/02/Joint_Civil_Society_QA_pCBCR.pdf" }
 archive: true
+cover: /files/covers/why-public-country-by-country-reporting-for-large-multinationals-is-a.jpg
 ---
 
 In this updated briefing, 14 civil society organizations, including the FTC, provide answers to a number of often-asked questions about public country by country reporting. The briefing aims to address concerns over public country by country reporting for large corporations, and why this type of reporting would be an effective deterrent of aggressive tax avoidance and profit shifting that can rob government coffers of much needed revenue.   

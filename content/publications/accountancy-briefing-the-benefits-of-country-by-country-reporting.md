@@ -7,6 +7,7 @@ legacyUrl: "/reports/accountancy-briefing-the-benefits-of-country-by-country-rep
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/BenefitsofCBC.pdf" }
 archive: true
+cover: /files/covers/accountancy-briefing-the-benefits-of-country-by-country-reporting.jpg
 ---
 
 **Tax Research UK**

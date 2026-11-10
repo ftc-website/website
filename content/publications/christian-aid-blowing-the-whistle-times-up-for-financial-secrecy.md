@@ -7,6 +7,7 @@ legacyUrl: "/reports/christian-aid-blowing-the-whistle-times-up-for-financial-se
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/blowing-the-whistle-caweek-report.pdf" }
 archive: true
+cover: /files/covers/christian-aid-blowing-the-whistle-times-up-for-financial-secrecy.jpg
 ---
 
 ##### Financial secrecy is ruining poor countries and football clubs alike, says new report

@@ -8,6 +8,7 @@ languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2016/05/Letter-to-OECD.pdf" }
   - { lang: en2, label: "English (2)", file: "/wp-content/uploads/2016/05/Letter-to-GF.pdf" }
 archive: true
+cover: /files/covers/letter-oecd-common-reporting-standard.jpg
 ---
 
 Recently, the FTC sent letters to Pascal Saint-Amans, head of the Center for Tax Policy and Administration at the Organization for Economic Cooperation and Development (OECD) and Monica Bhatia, head of the Secretariat of the Global Forum. In these letters, and the attached proposal, we've asked OECD member governments to allow data from the new automatic information exchange system to be used to fight corruption.

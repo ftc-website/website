@@ -5,6 +5,7 @@ type: report
 summary: "The fight against corruption is of vital importance for “securing our citizens’ future by promoting human prosperity, energy security and environmental sustainability”, theme of the V Summit of the Americas. Corruption has been described…"
 legacyUrl: "/reports/the-state-of-anti-corruption-assessing-government-action-in-the-americas/"
 archive: true
+cover: /files/covers/the-state-of-anti-corruption-assessing-government-action-in-the-americ.jpg
 ---
 
 A study on the implementation of the Summit of Americas‘ mandates

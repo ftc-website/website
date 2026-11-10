@@ -14,7 +14,7 @@ export default function Events() {
         <article key={e.slug} style={{ display: 'flex', flexWrap: 'wrap', gap: 24, padding: '20px 0', borderBottom: '1px solid var(--line)' }}>
           <p style={{ flex: '0 0 180px', fontWeight: 700 }}>{formatDate(e.start)}</p>
           <div className="stack" style={{ flex: '1 1 320px', gap: 6 }}>
-            <h3>{e.link ? <a href={e.link}>{e.title}</a> : e.title}</h3>
+            <h3>{e.link ? <a href={e.link}>{e.title}</a> : e.html.trim() ? <a href={`/events/${e.slug}/`}>{e.title}</a> : e.title}</h3>
             {e.place && <p className="muted">{e.place}</p>}
             {e.summary && <p>{e.summary}</p>}
           </div>

@@ -10,6 +10,8 @@ export const site = {
   // While this is "true" the site asks search engines not to index it (preview).
   isPreview: process.env.NEXT_PUBLIC_PREVIEW !== 'false',
   contactEmail: 'info@financialtransparency.org',
+  // Cloudflare Web Analytics site token (NEXT_PUBLIC_CF_ANALYTICS_TOKEN). Empty: no analytics script.
+  cfAnalyticsToken: process.env.NEXT_PUBLIC_CF_ANALYTICS_TOKEN || '',
 };
 
 export type NavLink = { label: string; href: string; desc?: string };

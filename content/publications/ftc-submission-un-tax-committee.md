@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-un-tax-committee/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2020/06/FTC-Submission-to-UN-Tax-Committee-June-2020-1.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-un-tax-committee.jpg
 ---
 
 #### **Submission Date: June 15th, 2020**

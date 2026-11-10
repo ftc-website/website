@@ -7,6 +7,7 @@ legacyUrl: "/reports/corruption-perceptions-index-2014/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/2014_CPIBrochure_EN-1.pdf" }
 archive: true
+cover: /files/covers/corruption-perceptions-index-2014.jpg
 ---
 
 Based on expert opinion from around the world, the Corruption Perceptions Index measures the perceived levels of public sector corruption worldwide, and it paints an alarming picture. Not one single country gets a perfect score and more than two-thirds score below 50, on a scale from 0 (highly corrupt) to 100 (very clean).

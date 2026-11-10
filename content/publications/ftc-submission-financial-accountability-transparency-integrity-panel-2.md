@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-financial-accountability-transparency-inte
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2020/11/FTCs-Submission-to-FACTI-Panel-Nov2020.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-financial-accountability-transparency-integrity-panel-2.jpg
 ---
 
 #### Submission date: November 30, 2020

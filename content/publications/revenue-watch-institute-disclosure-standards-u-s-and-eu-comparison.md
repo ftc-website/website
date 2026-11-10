@@ -7,6 +7,7 @@ legacyUrl: "/reports/revenue-watch-institute-disclosure-standards-u-s-and-eu-com
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/EU-US-rules.pdf" }
 archive: true
+cover: /files/covers/revenue-watch-institute-disclosure-standards-u-s-and-eu-comparison.jpg
 ---
 
 In July 2010, the U.S. Congress passed Section 1504 of the Dodd-Frank Act, a measure requiring companies registered with the Securities and Exchange Commission (SEC) to publicly report how much they pay governments for access to oil, gas and minerals, country-by-country and project-by-project. The SEC is developing final rules to put the disclosure requirement into effect.

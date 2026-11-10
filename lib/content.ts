@@ -59,7 +59,7 @@ export type News = Entry & {
 export const newsKinds: Record<string, string> = {
   news: 'News', statement: 'Press release', blog: 'Blog', 'op-ed': 'Op-ed', video: 'Video',
 };
-export type Event = Entry & { start: string; end?: string; place?: string; link?: string };
+export type Event = Entry & { start: string; end?: string; place?: string; link?: string; archive?: boolean };
 
 function readDir<T extends Entry>(dir: string): T[] {
   const full = path.join(root, dir);
@@ -88,6 +88,7 @@ export const getEvents = () =>
   readDir<Event>('events').map((e) => ({
     ...e,
     start: (e.start as unknown) instanceof Date ? (e.start as unknown as Date).toISOString().slice(0, 10) : String(e.start ?? e.date),
+    end: (e.end as unknown) instanceof Date ? (e.end as unknown as Date).toISOString().slice(0, 10) : e.end ? String(e.end) : undefined,
   }));
 
 export type Project = {

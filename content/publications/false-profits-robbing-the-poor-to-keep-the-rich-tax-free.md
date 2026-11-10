@@ -7,6 +7,7 @@ legacyUrl: "/reports/false-profits-robbing-the-poor-to-keep-the-rich-tax-free/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/false-profits.pdf" }
 archive: true
+cover: /files/covers/false-profits-robbing-the-poor-to-keep-the-rich-tax-free.jpg
 ---
 
 A March, 2009 report from [Christian Aid](http://www.christianaid.org.uk/).

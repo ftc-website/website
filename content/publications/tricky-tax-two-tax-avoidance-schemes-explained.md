@@ -7,6 +7,7 @@ legacyUrl: "/reports/tricky-tax-two-tax-avoidance-schemes-explained/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Tricky_Tax_GBenari.pdf" }
 archive: true
+cover: /files/covers/tricky-tax-two-tax-avoidance-schemes-explained.jpg
 ---
 
 A 2009 report by Gideon Benari

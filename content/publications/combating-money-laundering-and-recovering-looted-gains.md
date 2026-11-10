@@ -7,6 +7,7 @@ legacyUrl: "/reports/combating-money-laundering-and-recovering-looted-gains/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/AML_Report_TI_UK_june_2009.pdf" }
 archive: true
+cover: /files/covers/combating-money-laundering-and-recovering-looted-gains.jpg
 ---
 
 Anti-corruption watchdog, Transparency International UK, today publishes a new report that delves deep into the complex web of legal and regulatory armoury the UK employs to counter money laundering.

@@ -7,6 +7,7 @@ legacyUrl: "/reports/tjn-the-cost-of-tax-abuse/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Cost_of_Tax_Abuse_TJN-Research_23rd_Nov_2011.pdf" }
 archive: true
+cover: /files/covers/tjn-the-cost-of-tax-abuse.jpg
 ---
 
 Tax evasion is the illegal non-payment of tax to the government of a jurisdiction to which it is owed by a person, a company, trust, or other organisation who should be a taxpayer in that place.

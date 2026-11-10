@@ -7,6 +7,7 @@ legacyUrl: "/materials/brics-2016-un-intergovernmental-tax-commission-priority/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2016/05/BRICS-2016.pdf" }
 archive: true
+cover: /files/covers/brics-2016-un-intergovernmental-tax-commission-priority.jpg
 ---
 
 In the attached briefing, we discuss why it's vital to upgrade the UN tax committee to a full fledged intergovernmental commission, and why this should be important to BRICS governments. The 2016 BRICS Summit will be hosted by India in October.   

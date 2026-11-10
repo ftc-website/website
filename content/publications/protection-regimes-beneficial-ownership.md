@@ -9,6 +9,7 @@ languages:
   - { lang: en2, label: "English (2)", file: "/wp-content/uploads/2016/05/BO-open-data-two-pager_Final.pdf" }
   - { lang: en3, label: "English (3)", file: "/wp-content/uploads/2016/05/BO-protection-regime-two-pager_Final.pdf" }
 archive: true
+cover: /files/covers/protection-regimes-beneficial-ownership.jpg
 ---
 
 What's beneficial ownership? Why are we hearing about anonymous companies in the news so much lately? Is anyone doing anything about the abuse of shell companies?

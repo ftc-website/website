@@ -7,6 +7,7 @@ legacyUrl: "/reports/illicit-financial-flows-overview-of-concepts-methodologies-
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/12/Illicit-Finanacial-Flows.pdf" }
 archive: true
+cover: /files/covers/illicit-financial-flows-overview-of-concepts-methodologies-and-regiona.jpg
 ---
 
 The report is based on a Mentoring Workshop organised by CBGA and Financial Transparency Coalition, in New Delhi in December 2014. The purpose of the report is to discuss some of the important concepts and issues related to illicit financial flows (IFFs) and to present a few existing research methodologies on these issues, which could enable CSOs, journalists and policy researchers to generate relevant evidence on IFFs.

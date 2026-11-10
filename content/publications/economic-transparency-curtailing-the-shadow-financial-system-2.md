@@ -9,6 +9,7 @@ languages:
   - { lang: es, label: "Español", file: "/wp-content/uploads/2015/04/the-case-for-global-financial-transparency-spanish-1.pdf" }
   - { lang: fr, label: "Français", file: "/wp-content/uploads/2015/04/the-case-for-global-financial-transparency-french-1.pdf" }
 archive: true
+cover: /files/covers/economic-transparency-curtailing-the-shadow-financial-system-2.jpg
 ---
 
 “Economic Transparency: Curtailing the Shadow Financial System” provides an overview of the work that the Task Force is doing. From laying out the framework of our mission, to detailing the specifics of each priority, this document is an excellent all in one resource.

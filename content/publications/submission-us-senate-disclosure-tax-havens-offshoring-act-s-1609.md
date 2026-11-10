@@ -7,6 +7,7 @@ legacyUrl: "/materials/submission-us-senate-disclosure-tax-havens-offshoring-act
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2020/07/Senate-—-NGOs-Urge-Congress-to-Support-pCbCR-S.-1609-—-July-28.pdf" }
 archive: true
+cover: /files/covers/submission-us-senate-disclosure-tax-havens-offshoring-act-s-1609.jpg
 ---
 
 #### Submission Date: July 28, 2020.

@@ -7,6 +7,7 @@ legacyUrl: "/reports/tax-research-llp-report-tax-havens/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/4775_tax_haven_report-1.pdf" }
 archive: true
+cover: /files/covers/tax-research-llp-report-tax-havens.jpg
 ---
 
 This report is the first that PCS has produced on the subject of tax havens. It has prepared it for four reasons. First, PCS is committed to a fair, progressive tax system. It sees tax havens (or secrecy jurisdictions as we prefer to call them) as a threat to the establishment of such a  

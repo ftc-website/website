@@ -7,6 +7,7 @@ legacyUrl: "/reports/transparency-internationals-corruption-perceptions-index-20
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2016/03/Corruption-Perceptions-Index-2015-report.pdf" }
 archive: true
+cover: /files/covers/transparency-internationals-corruption-perceptions-index-2015.jpg
 ---
 
 Based on expert opinion, the Corruption Perceptions Index measures the perceived levels of public sector corruption worldwide. 2015 showed that people working together can succeed in fighting corruption. Although corruption is still rife globally, more countries improved their scores in 2015 than declined. Some countries have improved in recent years – Greece, Senegal and the UK are among those that have seen a significant increase in scores since 2012. Others, including Australia, Brazil, Libya, Spain and Turkey, have deteriorated.

@@ -7,6 +7,7 @@ legacyUrl: "/materials/letter-south-african-presidency-occasion-10th-brics-summi
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2018/07/Financial-Transparency-Coalition-letter-to-the-2018-BRICS-Summit-Presidency.pdf" }
 archive: true
+cover: /files/covers/letter-south-african-presidency-occasion-10th-brics-summit-july-2018.jpg
 ---
 
 *Submission Date: 26 July 2018*

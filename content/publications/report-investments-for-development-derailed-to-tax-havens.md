@@ -7,6 +7,7 @@ legacyUrl: "/reports/report-investments-for-development-derailed-to-tax-havens/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Investments-for-development_Derailed-to-tax-havens.pdf" }
 archive: true
+cover: /files/covers/report-investments-for-development-derailed-to-tax-havens.jpg
 ---
 
 **Prepared by RIchard Murphy**

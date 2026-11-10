@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-uks-draft-registration-overseas-entities-b
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2018/09/FTC_Draft-Registration-of-Overseas-Entities-Bill.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-uks-draft-registration-overseas-entities-bill.jpg
 ---
 
 *Submission Date: 24 September 2018*

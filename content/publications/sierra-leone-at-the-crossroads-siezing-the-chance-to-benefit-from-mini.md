@@ -7,6 +7,7 @@ legacyUrl: "/reports/sierra-leone-at-the-crossroads-siezing-the-chance-to-benefi
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/sierra-leone-at-the-crossroads.pdf" }
 archive: true
+cover: /files/covers/sierra-leone-at-the-crossroads-siezing-the-chance-to-benefit-from-mini.jpg
 ---
 
 A March 2009 report from the National Advocacy Coalition On Extractives (NACE)

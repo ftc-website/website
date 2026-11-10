@@ -1577,8 +1577,58 @@
       "permanent": true
     },
     {
+      "source": "/conferences/2009-washington-increasing-transparency-in-global-finance-a-development-imperative/",
+      "destination": "/events/2009-washington-increasing-transparency-in-global-finance-a-developmen/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2010-bergen-achieving-transparency-a-dialogue-for-action/",
+      "destination": "/events/2010-bergen-achieving-transparency-a-dialogue-for-action/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2011-paris-tackling-the-shadow-financial-system-a-working-plan-for-the-g20/",
+      "destination": "/events/2011-paris-tackling-the-shadow-financial-system-a-working-plan-for-the/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2013-dar-es-salaam-towards-transparency-making-the-global-financial-system-work-for-development/",
+      "destination": "/events/2013-dar-es-salaam-towards-transparency-making-the-global-financial-sy/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2013-new-delhi-financial-transparency-challenges-and-opportunities-for-developing-countries/",
+      "destination": "/events/2013-new-delhi-financial-transparency-challenges-and-opportunities-for/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2014-lima-hidden-money-hidden-resources-financing-development-with-transparency-2-2-2/",
+      "destination": "/events/2014-lima-hidden-money-hidden-resources-financing-development-with-tra/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2015-jakarta-many-voices-one-purpose-the-6th-annual-financial-transparency-conference/",
+      "destination": "/events/2015-jakarta-many-voices-one-purpose-the-6th-annual-financial-transpar/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/2020-bangkok-boiling-point-turning-point-8th-financial-transparency-conference/",
+      "destination": "/events/2020-bangkok-boiling-point-turning-point-8th-financial-transparency-co/",
+      "permanent": true
+    },
+    {
       "source": "/conferences/8th-international-conference-illicit-financial-flows-multiple-crisis-global-fiscal-governance/",
-      "destination": "/events/",
+      "destination": "/events/8th-international-conference-iffs/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/healthvswealth28may/",
+      "destination": "/news/healthvswealth28may/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/tipping-point/",
+      "destination": "/events/tipping-point/",
       "permanent": true
     },
     {
@@ -1604,6 +1654,11 @@
     {
       "source": "/issues/:path*",
       "destination": "/our-work/global-charter/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/8va-conferencia-internacional-sobre-flujos-financieros-ilicitos-multiples-crisis-y-gobernanza-fiscal-global/",
+      "destination": "/events/8th-international-conference-iffs/",
       "permanent": true
     },
     {

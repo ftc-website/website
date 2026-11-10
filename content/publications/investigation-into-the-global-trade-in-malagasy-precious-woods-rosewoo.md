@@ -7,6 +7,7 @@ legacyUrl: "/reports/investigation-into-the-global-trade-in-malagasy-precious-wo
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Illegal_Timber_Report_261010.pdf" }
 archive: true
+cover: /files/covers/investigation-into-the-global-trade-in-malagasy-precious-woods-rosewoo.jpg
 ---
 
 **Global Witness**

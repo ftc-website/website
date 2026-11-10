@@ -1,6 +1,6 @@
 import type { MetadataRoute } from 'next';
 import { site } from '@/lib/site';
-import { getNews, getProjects, getPublications } from '@/lib/content';
+import { getEvents, getNews, getProjects, getPublications } from '@/lib/content';
 
 export const dynamic = 'force-static';
 
@@ -14,5 +14,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
   const projects = getProjects().map((p) => ({ url: url(`/our-work/${p.slug}/`) }));
   const pubs = getPublications().map((p) => ({ url: url(`/publications/${p.slug}/`), lastModified: p.date }));
   const news = getNews().map((n) => ({ url: url(`/news/${n.slug}/`), lastModified: n.date }));
-  return [...fixed, ...projects, ...pubs, ...news];
+  const events = getEvents().filter((e) => !e.link && e.html.trim()).map((e) => ({ url: url(`/events/${e.slug}/`), lastModified: e.date }));
+  return [...fixed, ...projects, ...pubs, ...news, ...events];
 }

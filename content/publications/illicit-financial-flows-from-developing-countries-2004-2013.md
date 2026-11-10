@@ -7,6 +7,7 @@ legacyUrl: "/reports/illicit-financial-flows-from-developing-countries-2004-2013
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/12/IFF-Update_2015-Final.pdf" }
 archive: true
+cover: /files/covers/illicit-financial-flows-from-developing-countries-2004-2013.jpg
 ---
 
 Illicit financial flows from developing and emerging economies surged to US$1.1 trillion in 2013, according to a study released Wednesday by Global Financial Integrity (GFI), a Washington, DC-based research and advisory organization. Authored by GFI Chief Economist Dev Kar and GFI Junior Economist Joseph Spanjers, the report pegs cumulative illicit outflows from developing economies at US$7.8 trillion between 2004 and 2013, the last year for which data are available.

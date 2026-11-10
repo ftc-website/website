@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-fatf-consultation-draft-risk-based-approac
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2019/04/FTC-submission_FATF-consultation-on-the-Draft-Risk-Based-Approach-Guidance-for-Legal-Professionals-Accountants-and-Trust-and-Company-Service-Providers.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-fatf-consultation-draft-risk-based-approach-guidance-le.jpg
 ---
 
 *Submission Date: 8 April 2019*

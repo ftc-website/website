@@ -7,6 +7,7 @@ legacyUrl: "/reports/the-morning-after-the-night-before-the-impact-of-the-financ
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/the-morning-after-the-night-before.pdf" }
 archive: true
+cover: /files/covers/the-morning-after-the-night-before-the-impact-of-the-financial-crisis.jpg
 ---
 
 A November 2008 report from Christian Aid.

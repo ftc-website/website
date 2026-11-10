@@ -7,6 +7,7 @@ legacyUrl: "/reports/international-thief-thief-how-british-banks-are-complicit-i
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/International-Thief-Thief-final.pdf" }
 archive: true
+cover: /files/covers/international-thief-thief-how-british-banks-are-complicit-in-nigerian.jpg
 ---
 
 *A new report from Global Witness, a coordinating committee member of the Task Force on Financial Integrity & Economic Development, exposes British banks for facilitating corruption in Nigeria*

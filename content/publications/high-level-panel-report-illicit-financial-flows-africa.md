@@ -7,6 +7,7 @@ legacyUrl: "/materials/high-level-panel-report-illicit-financial-flows-africa/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2020/07/HLP-Report-A6-Final-Spreads-1.pdf" }
 archive: true
+cover: /files/covers/high-level-panel-report-illicit-financial-flows-africa.jpg
 ---
 
 In February 2012, the 4th Joint African Union Commission (AU) United Nations Economic Commission for Africa Conference (UNECA) of African Ministers of Finance, Planning and Economic Development established the AU/ UNECA High Level Panel on Illicit Financial Flows (High-Level Panel) which set out to ensure that Africa’s development relies as much as possible on its own resources.

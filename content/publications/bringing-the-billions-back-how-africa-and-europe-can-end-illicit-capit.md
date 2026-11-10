@@ -7,6 +7,7 @@ legacyUrl: "/reports/bringing-the-billions-back-how-africa-and-europe-can-end-il
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/deathandtaxes.pdf" }
 archive: true
+cover: /files/covers/bringing-the-billions-back-how-africa-and-europe-can-end-illicit-capit.jpg
 ---
 
 The report explains illicit capital flight, how it happens, its magnitude and its consequences for development, measures taken so far and measures needed to end it. It also includes a specific chapter on capital flight from Africa and presents illustrative case studies from Kenya, South Africa and Tanzania. These are written by Attiya Waris from [Tax Justice Network Africa](http://www.taxjustice4africa.net/cms/front_content.php?idcat=2) and by the [Budget Working Group of Policy Forum in Tanzania](http://www.policyforum-tz.org/groups/bwg).

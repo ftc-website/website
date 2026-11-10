@@ -7,6 +7,7 @@ legacyUrl: "/reports/oecd-tax-transparency-2011-report-on-progress/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/48981620.pdf" }
 archive: true
+cover: /files/covers/oecd-tax-transparency-2011-report-on-progress.jpg
 ---
 
 In 2006 the Global Forum published a review of the legal and administrative frameworks in the areas of transparency and exchange of information for tax purposes covering 82 jurisdictions, entitled Tax Co-operation: Towards a Level Playing Field – 2006 Assessment by the Global Forum on Taxation. This publication was followed by four annual assessments, with the 2010 publication covering 93 jurisdictions.

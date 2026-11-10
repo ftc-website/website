@@ -9,6 +9,7 @@ languages:
   - { lang: en2, label: "English (2)", file: "/wp-content/uploads/2015/04/executive_summary.pdf" }
   - { lang: fr, label: "Français", file: "/wp-content/uploads/2015/04/undue_diligence_french.pdf" }
 archive: true
+cover: /files/covers/undue-diligence-how-banks-do-business-with-corrupt-regimes.jpg
 ---
 
 A March 2009 Report by Global Witness

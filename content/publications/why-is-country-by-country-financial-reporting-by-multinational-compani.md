@@ -5,6 +5,7 @@ type: report
 summary: "A brief explanation based on the work of tax expert Richard Murphy of why country-by-country (CbC) reporting could change the world."
 legacyUrl: "/reports/why-is-country-by-country-financial-reporting-by-multinational-companies-so-important/"
 archive: true
+cover: /files/covers/why-is-country-by-country-financial-reporting-by-multinational-compani.jpg
 ---
 
 A report by the Tax Justice Network.

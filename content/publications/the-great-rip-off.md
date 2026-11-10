@@ -7,6 +7,7 @@ legacyUrl: "/reports/the-great-rip-off/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/the-great-rip-off.pdf" }
 archive: true
+cover: /files/covers/the-great-rip-off.jpg
 ---
 
 Global Witness investigations and campaigns have shown how anonymously owned companies act as getaway cars for the criminal and corrupt all over the world. America is at the heart of this problem, and it is hurting American interests.

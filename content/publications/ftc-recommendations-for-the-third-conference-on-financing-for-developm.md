@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-recommendations-for-the-third-conference-on-financing
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/FTC-Submission-to-FfD3-June-15.pdf" }
 archive: true
+cover: /files/covers/ftc-recommendations-for-the-third-conference-on-financing-for-developm.jpg
 ---
 
 In the lead-up to the Third International Conference on Financing for Development in Addis Ababa in July, the The FTC has produced a set of recommendations outlining where financial transparency should fit in the UN's final outcome document.

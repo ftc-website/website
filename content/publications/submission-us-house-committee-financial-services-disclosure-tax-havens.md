@@ -7,6 +7,7 @@ legacyUrl: "/materials/submission-us-house-committee-financial-services-disclosu
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2020/07/House-NGOs-Urge-Congress-to-Support-pCbCR-H.R.-5933_.pdf" }
 archive: true
+cover: /files/covers/submission-us-house-committee-financial-services-disclosure-tax-havens.jpg
 ---
 
 #### Submission Date: July 14th, 2020

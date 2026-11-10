@@ -12,6 +12,7 @@ languages:
   - { lang: nl, label: "Nederlands", file: "/wp-content/uploads/2015/04/tax-nederlands.pdf" }
   - { lang: pt, label: "Português", file: "/wp-content/uploads/2015/04/tax-portuguas.pdf" }
 archive: true
+cover: /files/covers/tax-us-if-you-can-the-true-story-of-a-global-failure.jpg
 ---
 
 Written by experts for a general readership, this provides an excellent introduction to the associated problems of capital flight, tax evasion, tax avoidance and tax competition. It discusses the policy failures that have brought us here, and proposes a range of practical solutions to this global crisis. (Commercial publishers are asked to obtain written permission from the International Secretariat to publish all or part of it.)

@@ -7,6 +7,7 @@ legacyUrl: "/materials/webinar-unequal-exchange-information/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2018/08/Unequal-Exchange-TJN-Andres-Knobel-2018-08-29.pdf" }
 archive: true
+cover: /files/covers/webinar-unequal-exchange-information.jpg
 ---
 
 Developing countries lose billions of dollars every year due to illicit financial flows or IFFs. One of the big obstacles countries face in curbing IFFs is the access to information, especially from developed countries that happen to be tax havens. Automatic exchange of information allows countries to gauge the magnitude of illicit finance that has crossed borders.

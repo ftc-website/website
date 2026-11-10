@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-oecd-consultation-tax-rules-requiring-disc
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2018/04/FTC_OECD-CRS-Avoidance-Consultation-Response.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-oecd-consultation-tax-rules-requiring-disclosure-common.jpg
 ---
 
 *Submission Date: 15 January 2018*

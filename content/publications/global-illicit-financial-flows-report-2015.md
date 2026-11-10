@@ -7,6 +7,7 @@ legacyUrl: "/reports/global-illicit-financial-flows-report-2015/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2016/03/IFF-Update_2015-Final-1.pdf" }
 archive: true
+cover: /files/covers/global-illicit-financial-flows-report-2015.jpg
 ---
 
 This December 2015 report from Global Financial Integrity, “Illicit Financial Flows from Developing Countries: 2004-2013,” finds that developing and emerging economies lost US$7.8 trillion in illicit financial flows from 2004 through 2013, with illicit outflows increasing at an average rate of 6.5 percent per year—nearly twice as fast as global GDP.

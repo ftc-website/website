@@ -7,6 +7,7 @@ legacyUrl: "/reports/danwatch-escaping-poverty-or-taxes/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Danwatch-report-Escaping-Poverty-Or-taxes.pdf" }
 archive: true
+cover: /files/covers/danwatch-escaping-poverty-or-taxes.jpg
 ---
 
 The World Bank’s private-sector entity – the International Finance Corporation (IFC) – seeks to increase tax payments to the government in developing countries through supporting their natural resource projects. This report documents that this aim can be undermined by IFCclients’ tax planning. IFC’s response is that “it is not likely to be true in almost all projects within the extractive industries”.

@@ -7,6 +7,7 @@ legacyUrl: "/reports/paying-our-dues-how-tax-dodging-punishes-the-poor/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/ChristianAidTaxReport.pdf" }
 archive: true
+cover: /files/covers/paying-our-dues-how-tax-dodging-punishes-the-poor.jpg
 ---
 
 **A Joint Report from Christian Aid Scotland and the Church of Scotland**

@@ -7,6 +7,7 @@ legacyUrl: "/reports/tax-research-uk-briefing-secrecy-jurisdictions/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Secrecyjurisdiction.pdf" }
 archive: true
+cover: /files/covers/tax-research-uk-briefing-secrecy-jurisdictions.jpg
 ---
 
 This research briefing on secrecy jurisdictions from Tax Research UK–endorsed by the [Tax Justice Network](http://www.taxjustice.net/cms/front_content.php?idcat=2) and the [Task Force on Financial Integrity and Economic Development](/)–is designed to briefly provide a clear insight into what secrecy jurisdictions are and what problems they cause.

@@ -7,6 +7,7 @@ legacyUrl: "/reports/the-drivers-and-dynamics-of-illicit-financial-flows-from-in
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/gfi_india.pdf" }
 archive: true
+cover: /files/covers/the-drivers-and-dynamics-of-illicit-financial-flows-from-india-1948-20.jpg
 ---
 
 This study examines the magnitude of illicit financial flows from India, analyzing the drivers and dynamics of these flows in the context of far-ranging reform. In the process, it represents perhaps the most comprehensive study on the subject matter, both in terms of the range of issues involved and the time span covered. At its heart is a dynamic simulation model which seeks to capture the interaction of economic, structural, and governance issues that underlie the generation and crossborder transfer of illicit capital. Due to the random nature of illicit flows, this model cannot be used to forecast such flows. Apart from the fact that illicit flows are unrecorded, primary motivations that drive them such as the desire for the hidden accumulation of wealth are not easy to test empirically. Nevertheless, a formal model can help us think systematically about the important drivers of illicit flows and how they are likely to interact.

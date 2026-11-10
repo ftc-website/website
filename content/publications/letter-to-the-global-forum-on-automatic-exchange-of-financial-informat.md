@@ -7,6 +7,7 @@ legacyUrl: "/materials/letter-to-the-global-forum-on-automatic-exchange-of-finan
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/06/FTC-Letter-to-GF-on-AEoI-June-2015.pdf" }
 archive: true
+cover: /files/covers/letter-to-the-global-forum-on-automatic-exchange-of-financial-informat.jpg
 ---
 
 On 22 June, the FTC submitted a letter to the head of the Secretariat of the Global Forum on Transparency and Exchange of Information for Tax Purposes to highlight our concerns regarding the OECD common reporting standard on cross-border information exchange. The letter touched on concerns of confidentiality requirements and multilateralism, among other issues.   

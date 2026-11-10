@@ -8,6 +8,7 @@ languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/CPI_report_ForWeb.pdf" }
   - { lang: fr, label: "Français", file: "/wp-content/uploads/2015/04/CPI_report_french_ForWeb.pdf" }
 archive: true
+cover: /files/covers/transparency-internationals-2010-corruption-perceptions-index.jpg
 ---
 
 With governments committing huge sums to tackle the world’s most pressing problems, from the instability of financial markets to climate change and poverty, corruption remains an obstacle to achieving much needed progress, according to Transparency International’s 2010 *Corruption Perceptions Index* (CPI), a measure of domestic, public sector corruption released October 2010.

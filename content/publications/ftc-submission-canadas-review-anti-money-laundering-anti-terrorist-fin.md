@@ -7,6 +7,7 @@ legacyUrl: "/materials/ftc-submission-canadas-review-anti-money-laundering-anti-
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2018/05/FTC-Submission-Canada-Review-of-Anti-Money-Laundering-and-Anti-Terrorist-Financing-Regime.pdf" }
 archive: true
+cover: /files/covers/ftc-submission-canadas-review-anti-money-laundering-anti-terrorist-fin.jpg
 ---
 
 *Submission Date: 16 May 2018*

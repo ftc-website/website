@@ -7,6 +7,7 @@ legacyUrl: "/reports/joint-committee-on-taxation-present-law-and-background-rela
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Present-Law-and-Background-Related-to-Possible-Income-Shifting-and-Transfer-Pricing.pdf" }
 archive: true
+cover: /files/covers/joint-committee-on-taxation-present-law-and-background-related-to-poss.jpg
 ---
 
 A [report](/wp-content/uploads/2015/04/Present-Law-and-Background-Related-to-Possible-Income-Shifting-and-Transfer-Pricing.pdf) prepared by the staff the of the Joint Committee on Taxation for a public hearing held on 22 July 2010 before the House Committee on Ways and Means includes six case studies of unnamed companies that reported effective tax rates at least 10 percentage points lower than the U.S. statutory rate. The companies also had large discrepancies between the countries in which they reported sales and earnings, respectively.

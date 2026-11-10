@@ -7,6 +7,7 @@ legacyUrl: "/reports/new-report-finds-that-illicit-financial-flows-out-of-the-de
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/illicit-financial-flows-report.pdf" }
 archive: true
+cover: /files/covers/new-report-finds-that-illicit-financial-flows-out-of-the-developing-wo.jpg
 ---
 
 A new report by the Task Force’s lead organization, [Global Financial Integrity](http://gfintegrity.org), entitled "Illicit Financial Flows from Developing Countries: 2002-2006," shows that the developing world is losing an increasing amount of money through illicit capital flight each year.

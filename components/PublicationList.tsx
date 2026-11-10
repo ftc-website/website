@@ -93,6 +93,11 @@ export default function PublicationList({ items, types, projects, languages }: P
               <span className="card-title">{p.title}</span>
               <span className="muted">{p.summary}</span>
             </span>
+            {p.cover ? (
+              <img src={p.cover} alt="" loading="lazy" className="pub-thumb" />
+            ) : (
+              <span className="pub-thumb pub-thumb-empty" aria-hidden="true" />
+            )}
           </Link>
         ))}
       </div>

@@ -7,6 +7,7 @@ legacyUrl: "/reports/haemorrhaging-money-briefing-on-the-problem-of-illicit-capi
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/haemorrhaging-money-briefing-on-the-problem-of-illicit-capital-flight.pdf" }
 archive: true
+cover: /files/covers/haemorrhaging-money-briefing-on-the-problem-of-illicit-capital-flight.jpg
 ---
 
 A 2007 briefing from Christian Aid.

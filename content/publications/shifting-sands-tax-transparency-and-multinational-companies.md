@@ -7,6 +7,7 @@ legacyUrl: "/reports/shifting-sands-tax-transparency-and-multinational-companies
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/shifting-sands-briefing.pdf" }
 archive: true
+cover: /files/covers/shifting-sands-tax-transparency-and-multinational-companies.jpg
 ---
 
 **Christian Aid**

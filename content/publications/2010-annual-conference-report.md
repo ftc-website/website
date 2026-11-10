@@ -7,6 +7,7 @@ legacyUrl: "/reports/2010-annual-conference-report/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Task_Force_Conference_Report-2010.pdf" }
 archive: true
+cover: /files/covers/2010-annual-conference-report.jpg
 ---
 
 ### Achieving Transparency: a Dialogue for Action

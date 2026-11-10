@@ -7,6 +7,7 @@ legacyUrl: "/reports/the-implied-tax-revenue-loss-from-trade-mispricing/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/implied-tax-revenue-loss-report_final.pdf" }
 archive: true
+cover: /files/covers/the-implied-tax-revenue-loss-from-trade-mispricing.jpg
 ---
 
 **Washington, DC** — Developing country treasuries are losing approximately $100 billion dollars every year due to trade mispricing, according to a new report available today from Global Financial Integrity (GFI).

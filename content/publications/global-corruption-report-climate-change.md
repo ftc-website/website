@@ -7,6 +7,7 @@ legacyUrl: "/reports/global-corruption-report-climate-change/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Global-Corruption-Report-Climate-Change-English.pdf" }
 archive: true
+cover: /files/covers/global-corruption-report-climate-change.jpg
 ---
 
 The [Global Corruption Report: Climate Change](/wp-content/uploads/2015/04/Global-Corruption-Report-Climate-Change-English.pdf) sets out practical guidelines to prevent corruption undermining climate change measures and calls on governments, international organisations, businesses and civil society to ensure good governance in climate policy.

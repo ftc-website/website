@@ -7,6 +7,7 @@ legacyUrl: "/reports/500000-missing-people-16-billion-of-lost-tax/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/500000Final.pdf" }
 archive: true
+cover: /files/covers/500000-missing-people-16-billion-of-lost-tax.jpg
 ---
 
 Tax Research UK published [a new report](/wp-content/uploads/2015/04/500000Final.pdf) this weekend on the administration of the UK’s Register of Companies by Companies House, the agency responsible for it on behalf of the UK government’s Department of Business, Innovation and Skills. The report extended the review to look at the administration of corporation tax returns by H M Revenue & Customs, the UK’s tax agency. In combination these are the two main agencies with responsibility for registering and regulating companies in the UK. The Task Force on Financial Integrity and Economic Development funded the study.

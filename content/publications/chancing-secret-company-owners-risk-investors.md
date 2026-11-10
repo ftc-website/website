@@ -7,6 +7,7 @@ legacyUrl: "/reports/chancing-secret-company-owners-risk-investors/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2016/09/04_Investors_report_AW_med_withlinks.pdf" }
 archive: true
+cover: /files/covers/chancing-secret-company-owners-risk-investors.jpg
 ---
 
 A new report from Global Witness and Global Financial Integrity, supported by the FTC, looks at how anonymous company ownership can harm businesses, investors and the health of the global economy. The brief includes a number of recommendations, including:  

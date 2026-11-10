@@ -8,6 +8,7 @@ legacyUrl: "/reports/no-easy-task-quantifying-illicit-financial-flows-spanish/"
 languages:
   - { lang: es, label: "Español", file: "/wp-content/uploads/2017/02/FTC_infographic_20170209_Spanish.pdf" }
 archive: true
+cover: /files/covers/no-easy-task-quantifying-illicit-financial-flows-spanish.jpg
 ---
 
 La Financial Transparency Coalition trabaja para reducir la amplia gama de flujos financieros ilícitos. Algunos miembros de la FTC se enfocan en los movimientos de dinero transfronterizo que se obtenga, transfiera o utilice, de forma ilegal. Estos flujos financieros ilícitos provienen de la evasión fiscal, la manipulación comercial, el crimen organizado y los pagos a funcionarios públicos corruptos. Los miembros de la coalición abordan, además, otros aspectos de los flujos ilícitos, incluyendo la elusión fiscal de las empresas multinacionales.

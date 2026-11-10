@@ -7,6 +7,7 @@ legacyUrl: "/materials/submission-76th-session-un-committee-elimination-discrimi
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2020/07/INT_CEDAW_ICS_PAN_42478_E.pdf" }
 archive: true
+cover: /files/covers/submission-76th-session-un-committee-elimination-discrimination-women.jpg
 ---
 
 #### Submission date: June 2020.

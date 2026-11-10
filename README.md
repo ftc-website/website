@@ -71,6 +71,7 @@ The main menu and its submenus are in `lib/site.ts`.
 |---|---|
 | `NEXT_PUBLIC_PREVIEW` | Leave unset while in preview: search engines are asked not to index. Set to `false` at launch. |
 | `NEXT_PUBLIC_SITE_URL` | Public address, e.g. `https://financialtransparency.org` |
+| `NEXT_PUBLIC_CF_ANALYTICS_TOKEN` | Cloudflare Web Analytics site token; enables cookie-free visit statistics |
 | `NEXT_PUBLIC_BREVO_FORM_URL` | Action URL of the Brevo sign-up form; enables the newsletter form |
 
 ## Publishing

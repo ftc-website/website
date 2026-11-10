@@ -7,6 +7,7 @@ legacyUrl: "/reports/ccfd-report-on-government-corruption-and-stolen-assets-from
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/CCFD-executive-summary-translation.pdf" }
 archive: true
+cover: /files/covers/ccfd-report-on-government-corruption-and-stolen-assets-from-developing.jpg
 ---
 
 The French non-profit organization, [Catholic Committee against Hunger and for Development](http://ccfd.asso.fr/) (CCFD), released a new report Wednesday on government corruption and stolen assets from developing countries.  The report, “Biens mal acquis” or “Ill-Gotten Gains” extensively cites the work of Task Force members Global Financial Integrity (GFI) and its director, Raymond Baker, on illicit financial flows and their impact on developing countries.

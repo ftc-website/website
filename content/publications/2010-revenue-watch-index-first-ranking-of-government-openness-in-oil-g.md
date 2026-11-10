@@ -7,6 +7,7 @@ legacyUrl: "/reports/2010-revenue-watch-index-first-ranking-of-government-openne
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/RevenueWatchIndex_2010.pdf" }
 archive: true
+cover: /files/covers/2010-revenue-watch-index-first-ranking-of-government-openness-in-oil-g.jpg
 ---
 
 **Brazil, Norway rated highest; United States 11th; Turkmenistan last**

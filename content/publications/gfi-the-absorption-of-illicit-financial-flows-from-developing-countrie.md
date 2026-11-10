@@ -7,6 +7,7 @@ legacyUrl: "/reports/gfi-the-absorption-of-illicit-financial-flows-from-developi
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/absorption_of_illicit_flows_web.pdf" }
 archive: true
+cover: /files/covers/gfi-the-absorption-of-illicit-financial-flows-from-developing-countrie.jpg
 ---
 
 **WASHINGTON, D.C.**—A May 2010 report from Global Financial Integrity (GFI) examines where trillions of dollars in illicit finances—the proceeds of crime, corruption, and tax evasion—are being deposited.

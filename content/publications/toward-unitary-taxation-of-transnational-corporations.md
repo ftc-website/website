@@ -7,6 +7,7 @@ legacyUrl: "/reports/toward-unitary-taxation-of-transnational-corporations/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Towards_Unitary_Taxation-1-1.pdf" }
 archive: true
+cover: /files/covers/toward-unitary-taxation-of-transnational-corporations.jpg
 ---
 
 Today’s international tax rules, which were drawn up nearly a century ago, have not kept pace with the massive changes in the world economy.

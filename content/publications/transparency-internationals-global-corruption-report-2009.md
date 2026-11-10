@@ -7,6 +7,7 @@ legacyUrl: "/reports/transparency-internationals-global-corruption-report-2009/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Global_Corruption_Report_2009_170909_2_web_2011.pdf" }
 archive: true
+cover: /files/covers/transparency-internationals-global-corruption-report-2009.jpg
 ---
 
 The private sector plays a pivotal role in fighting corruption worldwide. Transparency International’s *[Global Corruption Report 2009](http://www.transparency.org/news_room/in_focus/2009/gcr2009)* documents in unique detail the many corruption risks for businesses, ranging from small entrepreneurs in Sub-Saharan Africa to multinationals from Europe and North America. More than 75 experts examine the scale, scope and devastating consequences of a wide range of corruption issues, including  

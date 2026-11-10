@@ -8,6 +8,7 @@ legacyUrl: "/reports/informe-anual-de-la-conferencia-2011-en-espanol/"
 languages:
   - { lang: es, label: "Español", file: "/wp-content/uploads/2015/04/Taskforce-Conference-Report-11-Spanish.pdf" }
 archive: true
+cover: /files/covers/informe-anual-de-la-conferencia-2011-en-espanol.jpg
 ---
 
 Los días 6 y 7 de octubre de 2011, con motivo de la tercera conferencia anual del Grupo de trabajo sobre integridad financiera y desarrollo económico (en adelante, Grupo de trabajo) se reunieron en parís, Francia, representantes de la sociedad civil, gobiernos, políticos, académicos, periodistas y el sector privado.

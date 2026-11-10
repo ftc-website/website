@@ -7,6 +7,7 @@ legacyUrl: "/reports/2009-progress-report-on-the-oecd-anti-bribery-convention/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/3rdEditionOECDProgressReport2009-2.pdf" }
 archive: true
+cover: /files/covers/2009-progress-report-on-the-oecd-anti-bribery-convention.jpg
 ---
 
 From [Transparency International](http://www.transparency.org/news_room/latest_news/press_releases/2009/2009_06_23_2009_oecd_progress_report):

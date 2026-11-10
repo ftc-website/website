@@ -7,6 +7,7 @@ legacyUrl: "/reports/norwegian-commission-on-capital-flight-from-developing-coun
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/norway_tax_report.pdf" }
 archive: true
+cover: /files/covers/norwegian-commission-on-capital-flight-from-developing-countries-tax-h.jpg
 ---
 
 A June 2009 Norwegian Commission on Capital Flight from Developing Countries report on illicit financial flows from developing countries and tax havens and put forward recommendations for reform efforts to be considered by the Norwegian Government.

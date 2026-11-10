@@ -7,6 +7,7 @@ legacyUrl: "/reports/ti-progress-report-2008-enforcement-of-the-oecd-convention-
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/ti-progress-report-2008-enforcement-of-the-oecd-convention-on-combating-bribery-of-foreign-public-officials.pdf" }
 archive: true
+cover: /files/covers/ti-progress-report-2008-enforcement-of-the-oecd-convention-on-combatin.jpg
 ---
 
 by Gillian Dell, Fritz Heimann  (gdell@transparency.org)  

@@ -7,6 +7,7 @@ legacyUrl: "/materials/submission-hong-kong-public-consultation-beneficial-owner
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2017/03/FTC-Submission-to-HK-BO-Consultation-March-2017.pdf" }
 archive: true
+cover: /files/covers/submission-hong-kong-public-consultation-beneficial-ownership.jpg
 ---
 
 The FTC recently submitted comments to Hong Kong's public consultation on beneficial ownership transparency, as the jurisdiction reassesses its company transparency guidelines. You can read more about the issue of beneficial ownership [here](/issues/beneficial-ownership/).   

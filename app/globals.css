@@ -179,3 +179,8 @@ p { margin: 0; }
 .prose .video { position: relative; aspect-ratio: 16 / 9; }
 .prose .video iframe { position: absolute; inset: 0; width: 100%; height: 100%; border: 0; border-radius: var(--radius); }
 .prose img { border-radius: 6px; }
+
+/* Publication thumbnails in the publications list */
+.pub-thumb { flex: 0 0 84px; width: 84px; height: 112px; object-fit: cover; object-position: top; border: 1px solid var(--line); background: var(--mist); }
+.pub-thumb-empty { display: block; background: var(--mist); }
+@media (max-width: 640px) { .pub-thumb { display: none; } }

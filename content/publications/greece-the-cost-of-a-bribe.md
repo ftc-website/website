@@ -7,6 +7,7 @@ legacyUrl: "/reports/greece-the-cost-of-a-bribe/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Greece_NIS2012_ExecutiveSummary_EN.pdf" }
 archive: true
+cover: /files/covers/greece-the-cost-of-a-bribe.jpg
 ---
 
 The Greek debt crisis has left many of its citizens on the margins, presenting one of the greatest socio-economic upheavals in the nation’s recent history.

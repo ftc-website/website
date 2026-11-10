@@ -7,6 +7,7 @@ legacyUrl: "/reports/unodc-illicit-money-how-much-is-out-there/"
 languages:
   - { lang: en, label: "English", file: "/wp-content/uploads/2015/04/Illicit_financial_flows_2011_web.pdf" }
 archive: true
+cover: /files/covers/unodc-illicit-money-how-much-is-out-there.jpg
 ---
 
 Criminals, especially drug traffickers, may have laundered around $1.6 trillion, or 2.7 per cent of global GDP, in 2009, according to a new report by UNODC. This figure is consistent with the 2 to 5 per cent range previously established by the International Monetary Fund to estimate the scale of money-laundering.
