@@ -8,15 +8,23 @@ import { marked } from 'marked';
 
 const root = path.join(process.cwd(), 'content');
 
-export type PublicationType = 'report' | 'briefing' | 'strategy' | 'statement' | 'factsheet';
+export type PublicationType =
+  | 'report' | 'briefing' | 'submission' | 'strategy' | 'statement'
+  | 'factsheet' | 'newsletter' | 'infographic' | 'webinar';
 
 export const publicationTypes: Record<PublicationType, string> = {
   report: 'Report',
   briefing: 'Briefing',
+  submission: 'Submission or letter',
   strategy: 'Strategy',
   statement: 'Statement',
   factsheet: 'Factsheet',
+  newsletter: 'Newsletter',
+  infographic: 'Infographic',
+  webinar: 'Webinar',
 };
+
+export const languageNames: Record<string, string> = { en: 'English', es: 'Español', fr: 'Français' };
 
 export type Entry = {
   slug: string;
@@ -36,6 +44,9 @@ export type Publication = Entry & {
   languages?: { lang: string; label: string; file: string }[]; // downloadable PDFs
   authors?: string[];
   partners?: string[];
+  lang?: string; // language of the publication page (default en)
+  archive?: boolean; // migrated from the old website
+  legacyUrl?: string;
 };
 
 export type News = Entry & { kind?: 'news' | 'statement' | 'blog' };

@@ -1,0 +1,18 @@
+---
+title: "Exposing The Lost Billions: How Financial Transparency By Multinationals On A Country By Country Basis Can Aid Development"
+date: 2011-11-23
+type: report
+summary: "The international community has repeatedly stressed the need to mobilise domestic resources in developing countries, as the most sustainable way of financing development and ending aid dependency. Yet, many developing countries are…"
+legacyUrl: "/reports/exposing-the-lost-billions-how-financial-transparency-by-multinationals-on-a-country-by-country-basis-can-aid-development/"
+archive: true
+---
+
+The international community has repeatedly stressed the need to mobilise domestic resources in developing countries, as the most sustainable way of financing development and ending aid dependency. Yet, many developing countries are affected by a number of challenges that limit their capacity to collect taxes. One such challenge is multinational companies’ lack of accountability regarding their operations and more specifically regarding the taxes they pay. This report explains how the cross border nature of multinational companies’ operations combined with the absence of adequate transparency regulations have very damaging implications for a country’s ability to mobilise domestic resources. Although this is relevant for both developed and developing countries, the report focuses on the impacts for developing countries, which have weaker capacities to face this challenge.
+
+Section 2 of the report describes the problem of illicit financial flows with a specific focus on those stemming from tax dodging by multinational companies (MNCs) which account for more than half of the total estimated illicit financial flows from developing countries. Companies use subsidiaries located in tax havens in order to dismantle the added value they are producing, concentrating their profits in tax havens and current accounting rules allow them to obscure this.
+
+Section 3 of the report analyses the existing regulatory framework for MNCs financial transparency. It explains current regulatory initiatives on country-by-country reporting in the extractive sector such as the Extractive Industries Transparency Initiative (EITI), and the recent stock exchange reporting regulations in the US and in Hong Kong. It explains why the civil society proposal for full country-by-country reporting, contributes to addressing tax dodging by MNCs, which the current regulatory initiatives fail to do.
+
+Section 4 focuses on the European agenda, it shows that implementing ambitious standards is a matter of political will. The review of the transparency and the accounting directives in 2011 and 2012 provide a unique opportunity to make real progress by proposing ambitious measures on country-by-country disclosure requirements for European companies. The European Union also has a key role to play by pushing this within the G20, OECD and International Accounting Standards Board (IASB). Section 5 outlines civil society’s proposal for a truly effective country-by-country reporting that would contribute to address MNC tax dodging. Section 6 shows that such country-by-country reporting is feasible and is also desirable for a wide range of stakeholders including CSOs, tax administrations and investors. It provides statements from investors arguing in favour of this disclosure.
+
+Part 2 of the report develops in detail two case studies of companies operating in developing countries the brewery SABMiller, operating in Ghana and Swiss mining company Glencore operating in Zambia. These examples show how country-by-country reporting would have enabled the identification of illegal and ethically questionable tax practices that deprive developing countries of much needed tax revenues.

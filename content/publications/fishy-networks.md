@@ -4,6 +4,7 @@ date: 2022-10-26
 type: report
 project: financial-secrets-of-natural-resources
 pillars: [B, G]
+cover: /wp-content/uploads/2022/10/Screenshot-2022-10-25-123213.png
 summary: "Africa concentrates 48.9% of identified industrial and semi-industrial vessels involved in illegal, unreported and unregulated fishing, with developing countries losing billions in related illicit financial flows every year."
 legacyUrl: "/reports/fishy-networks-uncovering-companies-individuals-behind-illegal-fishing-globally/"
 languages:

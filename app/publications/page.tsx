@@ -1,5 +1,5 @@
 import { Suspense } from 'react';
-import { getProjects, getPublications, publicationTypes } from '@/lib/content';
+import { getProjects, getPublications, languageNames, publicationTypes } from '@/lib/content';
 import { PageHead } from '@/components/Cards';
 import PublicationList from '@/components/PublicationList';
 
@@ -14,7 +14,7 @@ export default function Publications() {
       <section className="section">
         <div className="container">
           <Suspense>
-            <PublicationList items={pubs} types={publicationTypes} projects={projects} />
+            <PublicationList items={pubs} types={publicationTypes} projects={projects} languages={languageNames} />
           </Suspense>
         </div>
       </section>

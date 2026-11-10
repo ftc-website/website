@@ -23,16 +23,25 @@ export default async function PublicationPage({ params }: { params: Promise<{ sl
       <PageHead eyebrow={publicationTypes[p.type] ?? p.type} title={p.title} summary={p.summary} />
       <section className="section">
         <div className="container" style={{ display: 'flex', flexWrap: 'wrap', gap: 48 }}>
-          <div className="prose" style={{ flex: '2 1 480px' }} dangerouslySetInnerHTML={{ __html: p.html }} />
+          <div style={{ flex: '2 1 480px' }} className="stack">
+            {p.archive && (
+              <p className="muted" style={{ fontSize: 15, padding: '10px 14px', background: 'var(--mist)', borderRadius: 6 }}>
+                From the FTC archive. This page was migrated from the previous website.
+              </p>
+            )}
+            <div className="prose" lang={p.lang ?? 'en'} dangerouslySetInnerHTML={{ __html: p.html }} />
+          </div>
           <aside style={{ flex: '1 1 260px' }} className="stack">
+            {(p.languages ?? []).length > 0 && (
             <div className="stack" style={{ gap: 10, padding: 20, background: 'var(--mist)', borderRadius: 10 }}>
               <strong>Download</strong>
               {(p.languages ?? []).map((l) => (
-                <a key={l.lang} href={l.file} className="btn btn-outline" download>
-                  PDF · {l.label}
+                <a key={l.lang} href={l.file} className="btn btn-outline" {...(l.file.startsWith('/') ? { download: true } : { target: '_blank', rel: 'noopener' })}>
+                  {l.file.toLowerCase().endsWith('.pdf') ? 'PDF · ' : ''}{l.label}
                 </a>
               ))}
             </div>
+            )}
             <dl className="stack" style={{ gap: 6, margin: 0 }}>
               <dt className="muted" style={{ fontSize: 14 }}>Published</dt>
               <dd style={{ margin: 0 }}>{shownDate(p, true)}</dd>

@@ -2,13 +2,948 @@
   "trailingSlash": true,
   "redirects": [
     {
+      "source": "/reports/2009-progress-report-on-the-oecd-anti-bribery-convention/",
+      "destination": "/publications/2009-progress-report-on-the-oecd-anti-bribery-convention/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/2010-annual-conference-report/",
+      "destination": "/publications/2010-annual-conference-report/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/2010-revenue-watch-index-first-ranking-of-government-openness-in-oil-gas-and-mining-management/",
+      "destination": "/publications/2010-revenue-watch-index-first-ranking-of-government-openness-in-oil-g/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/2011-financial-secrecy-index/",
+      "destination": "/publications/2011-financial-secrecy-index/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/500000-missing-people-16-billion-of-lost-tax/",
+      "destination": "/publications/500000-missing-people-16-billion-of-lost-tax/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/a-selection-of-latest-press/",
+      "destination": "/publications/a-selection-of-latest-press/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/accountancy-briefing-the-benefits-of-country-by-country-reporting/",
+      "destination": "/publications/accountancy-briefing-the-benefits-of-country-by-country-reporting/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/africa-progress-report-2010-from-agenda-to-action/",
+      "destination": "/publications/africa-progress-report-2010-from-agenda-to-action/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ahora-o-nunca/",
+      "destination": "/publications/ahora-o-nunca/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/brics-2016-un-intergovernmental-tax-commission-priority/",
+      "destination": "/publications/brics-2016-un-intergovernmental-tax-commission-priority/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/briefing-for-government-delegates-on-un-tax-body/",
+      "destination": "/publications/briefing-for-government-delegates-on-un-tax-body/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/briefing-paper-how-the-g20-should-tackle-illicit-financial-flows/",
+      "destination": "/publications/briefing-paper-how-the-g20-should-tackle-illicit-financial-flows/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/bringing-the-billions-back-how-africa-and-europe-can-end-illicit-capital-flight/",
+      "destination": "/publications/bringing-the-billions-back-how-africa-and-europe-can-end-illicit-capit/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/brookings-foresight-africa-top-priorities-for-the-continent-in-2012/",
+      "destination": "/publications/brookings-foresight-africa-top-priorities-for-the-continent-in-2012/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/business-against-tax-haven-abuse-unfair-advantage-the-business-case-against-overseas-tax-havens/",
+      "destination": "/publications/business-against-tax-haven-abuse-unfair-advantage-the-business-case-ag/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/case-beneficial-ownership/",
+      "destination": "/publications/case-beneficial-ownership/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/catching-2016-g20-brief/",
+      "destination": "/publications/catching-2016-g20-brief/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cbga-report-international-institutional-architecture-financial-transparency/",
+      "destination": "/publications/cbga-report-international-institutional-architecture-financial-transpa/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ccfd-report-on-government-corruption-and-stolen-assets-from-developing-countries/",
+      "destination": "/publications/ccfd-report-on-government-corruption-and-stolen-assets-from-developing/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/chancing-secret-company-owners-risk-investors/",
+      "destination": "/publications/chancing-secret-company-owners-risk-investors/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/christian-aid-blowing-the-whistle-times-up-for-financial-secrecy/",
+      "destination": "/publications/christian-aid-blowing-the-whistle-times-up-for-financial-secrecy/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/cmi-extractive-sectors-and-illicit-financial-flows-what-role-for-revenue-governance-initiatives/",
+      "destination": "/publications/cmi-extractive-sectors-and-illicit-financial-flows-what-role-for-reven/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/combating-money-laundering-and-recovering-looted-gains/",
+      "destination": "/publications/combating-money-laundering-and-recovering-looted-gains/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/corrupt-money-concealed-in-shell-companies-and-other-opaque-legal-entities-finds-new-star-study/",
+      "destination": "/publications/corrupt-money-concealed-in-shell-companies-and-other-opaque-legal-enti/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/corruption-perceptions-index-2014/",
+      "destination": "/publications/corruption-perceptions-index-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/country-by-country-reporting-holding-multinational-corporations-to-account-wherever-they-are/",
+      "destination": "/publications/country-by-country-reporting-holding-multinational-corporations-to-acc/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/country-country-reporting-restricted-access-exacerbates-global-inequalities-taxing-rights/",
+      "destination": "/publications/country-country-reporting-restricted-access-exacerbates-global-inequal/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/covid-19-response-thats-needed/",
+      "destination": "/publications/covid-19-response-thats-needed/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/curbing-illicit-financial-flows-to-unlock-a-sustainable-future/",
+      "destination": "/publications/curbing-illicit-financial-flows-to-unlock-a-sustainable-future/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/danwatch-escaping-poverty-or-taxes/",
+      "destination": "/publications/danwatch-escaping-poverty-or-taxes/",
+      "permanent": true
+    },
+    {
       "source": "/reports/dark-webs-uncovering-behind-forced-labour-commerical-fishing-fleets/",
       "destination": "/publications/dark-webs/",
       "permanent": true
     },
     {
+      "source": "/reports/doors-wide-open-corruption-real-estate-four-key-markets/",
+      "destination": "/publications/doors-wide-open-corruption-real-estate-four-key-markets/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/economic-transparency-curtailing-the-shadow-financial-system-2/",
+      "destination": "/publications/economic-transparency-curtailing-the-shadow-financial-system-2/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/economic-transparency-curtailing-the-shadow-financial-system/",
+      "destination": "/publications/economic-transparency-curtailing-the-shadow-financial-system/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/eurodad-the-private-turn-in-development-finance-effective-for-development/",
+      "destination": "/publications/eurodad-the-private-turn-in-development-finance-effective-for-developm/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/every-government-thats-supported-un-tax-body-one-table/",
+      "destination": "/publications/every-government-thats-supported-un-tax-body-one-table/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/exposing-the-lost-billions-how-financial-transparency-by-multinationals-on-a-country-by-country-basis-can-aid-development/",
+      "destination": "/publications/exposing-the-lost-billions-how-financial-transparency-by-multinational/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/false-profits-robbing-the-poor-to-keep-the-rich-tax-free/",
+      "destination": "/publications/false-profits-robbing-the-poor-to-keep-the-rich-tax-free/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/fifty-shades-of-tax-dodging/",
+      "destination": "/publications/fifty-shades-of-tax-dodging/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/findings-2nd-tax-justice-network-survey-automatic-exchange-information/",
+      "destination": "/publications/findings-2nd-tax-justice-network-survey-automatic-exchange-information/",
+      "permanent": true
+    },
+    {
       "source": "/reports/fishy-networks-uncovering-companies-individuals-behind-illegal-fishing-globally/",
       "destination": "/publications/fishy-networks/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-covid-bailout-tracker/",
+      "destination": "/publications/ftc-covid-bailout-tracker/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-letter-fasb/",
+      "destination": "/publications/ftc-letter-fasb/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-recommendations-for-the-third-conference-on-financing-for-development/",
+      "destination": "/publications/ftc-recommendations-for-the-third-conference-on-financing-for-developm/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ftc-reveals-new-covid-bailout-tracker/",
+      "destination": "/publications/ftc-reveals-new-covid-bailout-tracker/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-canadas-review-anti-money-laundering-anti-terrorist-financing-regime/",
+      "destination": "/publications/ftc-submission-canadas-review-anti-money-laundering-anti-terrorist-fin/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-fatf-consultation-draft-risk-based-approach-guidance-legal-professionals-accountants-trust-company-service-providers/",
+      "destination": "/publications/ftc-submission-fatf-consultation-draft-risk-based-approach-guidance-le/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-financial-accountability-transparency-integrity-panel-2/",
+      "destination": "/publications/ftc-submission-financial-accountability-transparency-integrity-panel-2/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-financial-accountability-transparency-integrity-panel/",
+      "destination": "/publications/ftc-submission-financial-accountability-transparency-integrity-panel/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-oecd-consultation-golden-visas-residency-investment-schemes-crs-avoidance/",
+      "destination": "/publications/ftc-submission-oecd-consultation-golden-visas-residency-investment-sch/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-oecd-consultation-tax-rules-requiring-disclosure-common-reporting-standards-crs-avoidance-arrangements-offshore-structures/",
+      "destination": "/publications/ftc-submission-oecd-consultation-tax-rules-requiring-disclosure-common/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-public-consultation-proposed-new-dubai-companies-law/",
+      "destination": "/publications/ftc-submission-public-consultation-proposed-new-dubai-companies-law/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-to-g20-development-working-group/",
+      "destination": "/publications/ftc-submission-to-g20-development-working-group/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-to-g20-sherpas/",
+      "destination": "/publications/ftc-submission-to-g20-sherpas/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-uk-beneficial-ownership-property-public-contracts/",
+      "destination": "/publications/ftc-submission-uk-beneficial-ownership-property-public-contracts/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-uks-draft-registration-overseas-entities-bill/",
+      "destination": "/publications/ftc-submission-uks-draft-registration-overseas-entities-bill/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-un-tax-committee/",
+      "destination": "/publications/ftc-submission-un-tax-committee/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/ftc-submission-unctad-14/",
+      "destination": "/publications/ftc-submission-unctad-14/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ftsecrecy-the-culture-of-concealment-throughout-the-ftse/",
+      "destination": "/publications/ftsecrecy-the-culture-of-concealment-throughout-the-ftse/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/future-beneficial-ownership-united-states-trade-transportation-national-security-implications/",
+      "destination": "/publications/future-beneficial-ownership-united-states-trade-transportation-nationa/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/g20-action-on-tax-and-development-a-progress-report-card/",
+      "destination": "/publications/g20-action-on-tax-and-development-a-progress-report-card/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/gfi-the-absorption-of-illicit-financial-flows-from-developing-countries-2002-2006/",
+      "destination": "/publications/gfi-the-absorption-of-illicit-financial-flows-from-developing-countrie/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/global-corruption-report-climate-change/",
+      "destination": "/publications/global-corruption-report-climate-change/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/global-illicit-financial-flows-report-2015/",
+      "destination": "/publications/global-illicit-financial-flows-report-2015/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/global-witness-uncovers-foreign-companies-links-to-congo-violence/",
+      "destination": "/publications/global-witness-uncovers-foreign-companies-links-to-congo-violence/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/greece-the-cost-of-a-bribe/",
+      "destination": "/publications/greece-the-cost-of-a-bribe/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/haemorrhaging-money-briefing-on-the-problem-of-illicit-capital-flight/",
+      "destination": "/publications/haemorrhaging-money-briefing-on-the-problem-of-illicit-capital-flight/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/hiding-in-plain-sight-trade-misinvoicing-and-the-impact-of-revenue-loss-in-ghana-kenya-mozambique-tanzania-and-uganda-2002-2011/",
+      "destination": "/publications/hiding-in-plain-sight-trade-misinvoicing-and-the-impact-of-revenue-los/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/high-level-panel-report-illicit-financial-flows-africa/",
+      "destination": "/publications/high-level-panel-report-illicit-financial-flows-africa/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/illicit-financial-flows-from-developing-countries-2000-2009/",
+      "destination": "/publications/illicit-financial-flows-from-developing-countries-2000-2009/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/illicit-financial-flows-from-developing-countries-2003-2012/",
+      "destination": "/publications/illicit-financial-flows-from-developing-countries-2003-2012/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/illicit-financial-flows-from-developing-countries-2004-2013/",
+      "destination": "/publications/illicit-financial-flows-from-developing-countries-2004-2013/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/illicit-financial-flows-overview-of-concepts-methodologies-and-regional-perspectives/",
+      "destination": "/publications/illicit-financial-flows-overview-of-concepts-methodologies-and-regiona/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/indias-experience-exchange-information-agreements/",
+      "destination": "/publications/indias-experience-exchange-information-agreements/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/infographics/",
+      "destination": "/publications/infographics/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/information-exchange-what-would-help-developing-countries-now/",
+      "destination": "/publications/information-exchange-what-would-help-developing-countries-now/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/information-for-the-nations/",
+      "destination": "/publications/information-for-the-nations/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/informe-anual-de-la-conferencia-2011-en-espanol/",
+      "destination": "/publications/informe-anual-de-la-conferencia-2011-en-espanol/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/international-thief-thief-how-british-banks-are-complicit-in-nigerian-corruption/",
+      "destination": "/publications/international-thief-thief-how-british-banks-are-complicit-in-nigerian/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/investigation-into-the-global-trade-in-malagasy-precious-woods-rosewood-ebony-and-pallisander/",
+      "destination": "/publications/investigation-into-the-global-trade-in-malagasy-precious-woods-rosewoo/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/joint-committee-on-taxation-present-law-and-background-related-to-possible-income-shifting-and-transfer-pricing/",
+      "destination": "/publications/joint-committee-on-taxation-present-law-and-background-related-to-poss/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/joint-cso-letter-european-commission-president-jean-claude-juncker/",
+      "destination": "/publications/joint-cso-letter-european-commission-president-jean-claude-juncker/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/keeping-redd-clean-a-step-by-step-guide-to-preventing-corruption/",
+      "destination": "/publications/keeping-redd-clean-a-step-by-step-guide-to-preventing-corruption/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/large-scale-mining-do-they-pay-the-taxes-they-should/",
+      "destination": "/publications/large-scale-mining-do-they-pay-the-taxes-they-should/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-oecd-common-reporting-standard/",
+      "destination": "/publications/letter-oecd-common-reporting-standard/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-south-african-presidency-occasion-10th-brics-summit-july-2018/",
+      "destination": "/publications/letter-south-african-presidency-occasion-10th-brics-summit-july-2018/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-european-commission-president-juncker-on-country-by-country-reporting/",
+      "destination": "/publications/letter-to-european-commission-president-juncker-on-country-by-country/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-g20-finance-ministers-and-central-bankers/",
+      "destination": "/publications/letter-to-g20-finance-ministers-and-central-bankers/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-global-forum-secretariat/",
+      "destination": "/publications/letter-to-global-forum-secretariat/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-meps-on-the-4th-anti-money-laundering-directive/",
+      "destination": "/publications/letter-to-meps-on-the-4th-anti-money-laundering-directive/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-oecd-on-automatic-exchange-of-information/",
+      "destination": "/publications/letter-to-oecd-on-automatic-exchange-of-information/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-the-global-forum-on-automatic-exchange-of-financial-information/",
+      "destination": "/publications/letter-to-the-global-forum-on-automatic-exchange-of-financial-informat/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-to-world-bank-on-beneficial-ownership-of-contract-winners/",
+      "destination": "/publications/letter-to-world-bank-on-beneficial-ownership-of-contract-winners/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/letter-u-s-lawmakers-support-corporate-transparency-accountability-act/",
+      "destination": "/publications/letter-u-s-lawmakers-support-corporate-transparency-accountability-act/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/letting-the-public-in/",
+      "destination": "/publications/letting-the-public-in/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/major-corruption-risks-in-liberias-oil-sector/",
+      "destination": "/publications/major-corruption-risks-in-liberias-oil-sector/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/new-eurodad-report-secret-structures-hidden-crimes/",
+      "destination": "/publications/new-eurodad-report-secret-structures-hidden-crimes/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/new-report-developing-countries-want-automatic-information-exchange/",
+      "destination": "/publications/new-report-developing-countries-want-automatic-information-exchange/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/new-report-finds-that-illicit-financial-flows-out-of-the-developing-world-overwhelm-foreign-aid/",
+      "destination": "/publications/new-report-finds-that-illicit-financial-flows-out-of-the-developing-wo/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-april-june-2014/",
+      "destination": "/publications/newsletter-april-june-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-april-june-2016/",
+      "destination": "/publications/newsletter-april-june-2016/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-january-april-2017/",
+      "destination": "/publications/newsletter-january-april-2017/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-january-june-2015/",
+      "destination": "/publications/newsletter-january-june-2015/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-january-march-2014/",
+      "destination": "/publications/newsletter-january-march-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-january-march-2016/",
+      "destination": "/publications/newsletter-january-march-2016/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-july-october-2015/",
+      "destination": "/publications/newsletter-july-october-2015/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-july-september-2014/",
+      "destination": "/publications/newsletter-july-september-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-july-september-2016/",
+      "destination": "/publications/newsletter-july-september-2016/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-november-december-2015/",
+      "destination": "/publications/newsletter-november-december-2015/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-october-december-2014/",
+      "destination": "/publications/newsletter-october-december-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/newsletter-october-december-2016/",
+      "destination": "/publications/newsletter-october-december-2016/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/no-easy-task-now-mandarin/",
+      "destination": "/publications/no-easy-task-now-mandarin/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/no-easy-task-quantifying-illicit-financial-flows-french/",
+      "destination": "/publications/no-easy-task-quantifying-illicit-financial-flows-french/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/no-easy-task-quantifying-illicit-financial-flows-spanish/",
+      "destination": "/publications/no-easy-task-quantifying-illicit-financial-flows-spanish/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/no-easy-task-quantifying-illicit-financial-flows/",
+      "destination": "/publications/no-easy-task-quantifying-illicit-financial-flows/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/norwegian-commission-on-capital-flight-from-developing-countries-tax-havens-and-development/",
+      "destination": "/publications/norwegian-commission-on-capital-flight-from-developing-countries-tax-h/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/oecd-tax-transparency-2011-report-on-progress/",
+      "destination": "/publications/oecd-tax-transparency-2011-report-on-progress/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/paying-our-dues-how-tax-dodging-punishes-the-poor/",
+      "destination": "/publications/paying-our-dues-how-tax-dodging-punishes-the-poor/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/primer-automatic-exchange-tax-information/",
+      "destination": "/publications/primer-automatic-exchange-tax-information/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/privately-held-non-resident-deposits-in-secrecy-jurisdictions/",
+      "destination": "/publications/privately-held-non-resident-deposits-in-secrecy-jurisdictions/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/profit-people-planet-economic-policies-corporate-profit-maximisation-perpetuate-unsustainable-exploitation-brazilian-amazon-poeple/",
+      "destination": "/publications/profit-people-planet-economic-policies-corporate-profit-maximisation-p/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/protection-regimes-beneficial-ownership/",
+      "destination": "/publications/protection-regimes-beneficial-ownership/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/qa-cbcr-european-union/",
+      "destination": "/publications/qa-cbcr-european-union/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/qa-why-country-by-country-reporting-for-large-multinational-corporations-is-a-must/",
+      "destination": "/publications/qa-why-country-by-country-reporting-for-large-multinational-corporatio/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/qui-fixe-les-regles-en-matiere-de-flux-financiers-illicites/",
+      "destination": "/publications/qui-fixe-les-regles-en-matiere-de-flux-financiers-illicites/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/quien-pone-las-reglas-sobre-los-flujos-financieros-ilicitos/",
+      "destination": "/publications/quien-pone-las-reglas-sobre-los-flujos-financieros-ilicitos/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/recovery-at-a-crossroads/",
+      "destination": "/publications/recovery-at-a-crossroads/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/registro-de-beneficiarios-finales-una-demanda-transversal/",
+      "destination": "/publications/registro-de-beneficiarios-finales-una-demanda-transversal/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/report-investments-for-development-derailed-to-tax-havens/",
+      "destination": "/publications/report-investments-for-development-derailed-to-tax-havens/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/revenue-watch-institute-disclosure-standards-u-s-and-eu-comparison/",
+      "destination": "/publications/revenue-watch-institute-disclosure-standards-u-s-and-eu-comparison/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/shifting-sands-tax-transparency-and-multinational-companies/",
+      "destination": "/publications/shifting-sands-tax-transparency-and-multinational-companies/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/sierra-leone-at-the-crossroads-siezing-the-chance-to-benefit-from-mining/",
+      "destination": "/publications/sierra-leone-at-the-crossroads-siezing-the-chance-to-benefit-from-mini/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/spectre-illicit-financial-flows-undermining-justice/",
+      "destination": "/publications/spectre-illicit-financial-flows-undermining-justice/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/statement-irs-ftc-director-porter-mcconnell/",
+      "destination": "/publications/statement-irs-ftc-director-porter-mcconnell/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-76th-session-un-committee-elimination-discrimination-women/",
+      "destination": "/publications/submission-76th-session-un-committee-elimination-discrimination-women/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-hong-kong-public-consultation-beneficial-ownership/",
+      "destination": "/publications/submission-hong-kong-public-consultation-beneficial-ownership/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-to-g20-finance-ministers-and-central-bankers-meeting-9-october/",
+      "destination": "/publications/submission-to-g20-finance-ministers-and-central-bankers-meeting-9-octo/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-to-the-6th-brics-summit/",
+      "destination": "/publications/submission-to-the-6th-brics-summit/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-to-the-global-forum-on-automatic-exchange-of-information/",
+      "destination": "/publications/submission-to-the-global-forum-on-automatic-exchange-of-information/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-to-united-nations-tax-committee/",
+      "destination": "/publications/submission-to-united-nations-tax-committee/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-us-house-committee-financial-services-disclosure-tax-havens-offshoring-act-h-r-5933/",
+      "destination": "/publications/submission-us-house-committee-financial-services-disclosure-tax-havens/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/submission-us-senate-disclosure-tax-havens-offshoring-act-s-1609/",
+      "destination": "/publications/submission-us-senate-disclosure-tax-havens-offshoring-act-s-1609/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/swissleaks-reviewed/",
+      "destination": "/publications/swissleaks-reviewed/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tainted-treasures-money-laundering-risks-luxury-markets/",
+      "destination": "/publications/tainted-treasures-money-laundering-risks-luxury-markets/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tapping-the-potential-procurement-tied-aid-and-the-use-of-country-systems-in-uganda/",
+      "destination": "/publications/tapping-the-potential-procurement-tied-aid-and-the-use-of-country-syst/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tax-research-llp-report-tax-havens/",
+      "destination": "/publications/tax-research-llp-report-tax-havens/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tax-research-uk-briefing-secrecy-jurisdictions/",
+      "destination": "/publications/tax-research-uk-briefing-secrecy-jurisdictions/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tax-research-uk-closing-the-eu-tax-gap/",
+      "destination": "/publications/tax-research-uk-closing-the-eu-tax-gap/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/tax-secrecy-tax-transparency/",
+      "destination": "/publications/tax-secrecy-tax-transparency/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tax-us-if-you-can-the-true-story-of-a-global-failure/",
+      "destination": "/publications/tax-us-if-you-can-the-true-story-of-a-global-failure/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tax-us-if-you-can-why-africa-should-stand-up-for-tax-justice/",
+      "destination": "/publications/tax-us-if-you-can-why-africa-should-stand-up-for-tax-justice/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/terrorism-inc-how-shell-companies-aid-terrorism-crime-and-corruption/",
+      "destination": "/publications/terrorism-inc-how-shell-companies-aid-terrorism-crime-and-corruption/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-drivers-and-dynamics-of-illicit-financial-flows-from-india-1948-2008/",
+      "destination": "/publications/the-drivers-and-dynamics-of-illicit-financial-flows-from-india-1948-20/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-end-of-banking-secrecy-an-evaluation-of-the-g20-tax-haven-crackdown/",
+      "destination": "/publications/the-end-of-banking-secrecy-an-evaluation-of-the-g20-tax-haven-crackdow/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-end-of-banking-secrecy/",
+      "destination": "/publications/the-end-of-banking-secrecy/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-foot-report/",
+      "destination": "/publications/the-foot-report/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-great-rip-off/",
+      "destination": "/publications/the-great-rip-off/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-implied-tax-revenue-loss-from-trade-mispricing/",
+      "destination": "/publications/the-implied-tax-revenue-loss-from-trade-mispricing/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-morning-after-the-night-before-the-impact-of-the-financial-crisis-on-the-developing-world/",
+      "destination": "/publications/the-morning-after-the-night-before-the-impact-of-the-financial-crisis/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-offshore-game/",
+      "destination": "/publications/the-offshore-game/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-secret-life-of-a-shopaholic-how-an-african-dictators-playboy-son-went-on-a-multi-million-dollar-shopping-spree-in-the-us/",
+      "destination": "/publications/the-secret-life-of-a-shopaholic-how-an-african-dictators-playboy-son-w/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-state-of-anti-corruption-assessing-government-action-in-the-americas/",
+      "destination": "/publications/the-state-of-anti-corruption-assessing-government-action-in-the-americ/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/the-state-of-finance-for-developing-countries-2014/",
+      "destination": "/publications/the-state-of-finance-for-developing-countries-2014/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ti-progress-report-2008-enforcement-of-the-oecd-convention-on-combating-bribery-of-foreign-public-officials/",
+      "destination": "/publications/ti-progress-report-2008-enforcement-of-the-oecd-convention-on-combatin/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/ti-report-transparency-in-reporting-on-anti-corruption-a-report-of-corporate-practices/",
+      "destination": "/publications/ti-report-transparency-in-reporting-on-anti-corruption-a-report-of-cor/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tis-2009-corruption-perceptions-index/",
+      "destination": "/publications/tis-2009-corruption-perceptions-index/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tjn-the-cost-of-tax-abuse/",
+      "destination": "/publications/tjn-the-cost-of-tax-abuse/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/toolkit-illicit-financial-flows/",
+      "destination": "/publications/toolkit-illicit-financial-flows/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/top-secret-countries-keep-financial-crime-fighting-data/",
+      "destination": "/publications/top-secret-countries-keep-financial-crime-fighting-data/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/toward-unitary-taxation-of-transnational-corporations/",
+      "destination": "/publications/toward-unitary-taxation-of-transnational-corporations/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/transparency-in-corporate-reporting-assessing-the-worlds-largest-companies/",
+      "destination": "/publications/transparency-in-corporate-reporting-assessing-the-worlds-largest-compa/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/transparency-internationals-2010-corruption-perceptions-index/",
+      "destination": "/publications/transparency-internationals-2010-corruption-perceptions-index/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/transparency-internationals-corruption-perceptions-index-2015/",
+      "destination": "/publications/transparency-internationals-corruption-perceptions-index-2015/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/transparency-internationals-global-corruption-report-2009/",
+      "destination": "/publications/transparency-internationals-global-corruption-report-2009/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/trapped-illicit-finance-abusive-tax-trade-practices-harm-human-rights/",
+      "destination": "/publications/trapped-illicit-finance-abusive-tax-trade-practices-harm-human-rights/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tricky-tax-two-tax-avoidance-schemes-explained/",
+      "destination": "/publications/tricky-tax-two-tax-avoidance-schemes-explained/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/trusts-weapons-mass-injustice/",
+      "destination": "/publications/trusts-weapons-mass-injustice/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/tuc-report-the-corporate-tax-gap/",
+      "destination": "/publications/tuc-report-the-corporate-tax-gap/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/undue-diligence-how-banks-do-business-with-corrupt-regimes/",
+      "destination": "/publications/undue-diligence-how-banks-do-business-with-corrupt-regimes/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/unequal-exchange-poor-countries-blindfolded-global-fight-banking-secrecy/",
+      "destination": "/publications/unequal-exchange-poor-countries-blindfolded-global-fight-banking-secre/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/unodc-illicit-money-how-much-is-out-there/",
+      "destination": "/publications/unodc-illicit-money-how-much-is-out-there/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/31710/",
+      "destination": "/publications/use-and-abuse-of-tax-breaks-how-tax-incentives-become-harmful/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/virtual-briefing-country-country-reporting/",
+      "destination": "/publications/virtual-briefing-country-country-reporting/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/webinar-unequal-exchange-information/",
+      "destination": "/publications/webinar-unequal-exchange-information/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/what-should-an-intergovernmental-tax-body-look-like/",
+      "destination": "/publications/what-should-an-intergovernmental-tax-body-look-like/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/who-makes-the-rules/",
+      "destination": "/publications/who-makes-the-rules/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/why-is-country-by-country-financial-reporting-by-multinational-companies-so-important/",
+      "destination": "/publications/why-is-country-by-country-financial-reporting-by-multinational-compani/",
+      "permanent": true
+    },
+    {
+      "source": "/materials/why-public-country-by-country-reporting-for-large-multinationals-is-a-must/",
+      "destination": "/publications/why-public-country-by-country-reporting-for-large-multinationals-is-a/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/world-bank-how-corruption-and-tax-evasion-distort-development/",
+      "destination": "/publications/world-bank-how-corruption-and-tax-evasion-distort-development/",
       "permanent": true
     },
     {

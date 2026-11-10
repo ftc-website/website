@@ -1,30 +1,41 @@
 'use client';
 
-import { useMemo, useState } from 'react';
+import { useEffect, useMemo, useState } from 'react';
 import { useSearchParams } from 'next/navigation';
 import Link from 'next/link';
 import type { Publication } from '@/lib/content';
 
 type Item = Omit<Publication, 'html'>;
-type Props = { items: Item[]; types: Record<string, string>; projects: { slug: string; title: string }[] };
+type Props = {
+  items: Item[];
+  types: Record<string, string>;
+  projects: { slug: string; title: string }[];
+  languages: Record<string, string>;
+};
+
+const PAGE = 30;
 
 const monthYear = (iso: string) =>
   new Date(iso + 'T12:00:00Z').toLocaleDateString('en-GB', { month: 'long', year: 'numeric', timeZone: 'UTC' });
 
 // Publications with filters by type, project, year and free text.
-export default function PublicationList({ items, types, projects }: Props) {
+export default function PublicationList({ items, types, projects, languages }: Props) {
   const params = useSearchParams();
   const [type, setType] = useState(params.get('type') ?? '');
   const [project, setProject] = useState(params.get('project') ?? '');
   const [year, setYear] = useState('');
   const [q, setQ] = useState('');
+  const [lang, setLang] = useState('');
+  const [limit, setLimit] = useState(PAGE);
 
+  useEffect(() => setLimit(PAGE), [type, project, year, lang, q]);
   const years = useMemo(() => Array.from(new Set(items.map((i) => i.date.slice(0, 4)))).sort().reverse(), [items]);
   const shown = items.filter(
     (i) =>
       (!type || i.type === type) &&
       (!project || i.project === project) &&
       (!year || i.date.startsWith(year)) &&
+      (!lang || (i.lang ?? 'en') === lang) &&
       (!q || `${i.title} ${i.summary}`.toLowerCase().includes(q.toLowerCase())),
   );
 
@@ -50,6 +61,13 @@ export default function PublicationList({ items, types, projects }: Props) {
           </select>
         </label>
         <label>
+          Language
+          <select value={lang} onChange={(e) => setLang(e.target.value)}>
+            <option value="">All languages</option>
+            {Object.entries(languages).map(([k, v]) => <option key={k} value={k}>{v}</option>)}
+          </select>
+        </label>
+        <label>
           Year
           <select value={year} onChange={(e) => setYear(e.target.value)}>
             <option value="">All years</option>
@@ -61,7 +79,7 @@ export default function PublicationList({ items, types, projects }: Props) {
       <p className="muted" aria-live="polite">{shown.length} {shown.length === 1 ? 'publication' : 'publications'}</p>
 
       <div className="stack" style={{ gap: 0 }}>
-        {shown.map((p) => (
+        {shown.slice(0, limit).map((p) => (
           <Link
             key={p.slug}
             href={`/publications/${p.slug}/`}
@@ -78,6 +96,13 @@ export default function PublicationList({ items, types, projects }: Props) {
           </Link>
         ))}
       </div>
+      {shown.length > limit && (
+        <div>
+          <button type="button" className="btn btn-outline" onClick={() => setLimit((n) => n + PAGE)}>
+            Show more ({shown.length - limit} left)
+          </button>
+        </div>
+      )}
     </div>
   );
 }

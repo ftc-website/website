@@ -4,6 +4,7 @@ date: 2023-11-15
 type: report
 project: financial-secrets-of-natural-resources
 pillars: [B, G]
+cover: /wp-content/uploads/2023/11/Screenshot-2023-11-15-071140_EN.png
 summary: "22.5% of industrial and semi-industrial fishing vessels accused of forced labour were owned by European companies; companies from five countries own almost two-thirds of accused vessels with known ownership."
 legacyUrl: "/reports/dark-webs-uncovering-behind-forced-labour-commerical-fishing-fleets/"
 languages:
