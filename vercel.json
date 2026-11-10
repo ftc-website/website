@@ -1,0 +1,95 @@
+{
+  "trailingSlash": true,
+  "redirects": [
+    {
+      "source": "/reports/dark-webs-uncovering-behind-forced-labour-commerical-fishing-fleets/",
+      "destination": "/publications/dark-webs/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/fishy-networks-uncovering-companies-individuals-behind-illegal-fishing-globally/",
+      "destination": "/publications/fishy-networks/",
+      "permanent": true
+    },
+    {
+      "source": "/16-nations-commit-fisheries-transparency-including-beneficial-ownership-transparency/",
+      "destination": "/news/16-nations-commit-fisheries-transparency-including-beneficial-ownership-transpar/",
+      "permanent": true
+    },
+    {
+      "source": "/consultancy-opportunity-strategy-review-process/",
+      "destination": "/news/consultancy-opportunity-strategy-review-process/",
+      "permanent": true
+    },
+    {
+      "source": "/financial-transparency-tax-justice-2026/",
+      "destination": "/news/financial-transparency-tax-justice-2026/",
+      "permanent": true
+    },
+    {
+      "source": "/illicit-deforestation-drains-1-28-billion-brazil-289-million-cameroon-new-report/",
+      "destination": "/news/illicit-deforestation-drains-1-28-billion-brazil-289-million-cameroon-new-report/",
+      "permanent": true
+    },
+    {
+      "source": "/launch-event-financial-secrets-forests/",
+      "destination": "/news/launch-event-financial-secrets-forests/",
+      "permanent": true
+    },
+    {
+      "source": "/make-break-financial-transparency-5-things-look-ahead-2025/",
+      "destination": "/news/make-break-financial-transparency-5-things-look-ahead-2025/",
+      "permanent": true
+    },
+    {
+      "source": "/public-access-shareholder-registries-europe-threat/",
+      "destination": "/news/public-access-shareholder-registries-europe-threat/",
+      "permanent": true
+    },
+    {
+      "source": "/rights-based-feminist-progressive-decolonial-approach-taxation/",
+      "destination": "/news/rights-based-feminist-progressive-decolonial-approach-taxation/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/8th-international-conference-illicit-financial-flows-multiple-crisis-global-fiscal-governance/",
+      "destination": "/events/",
+      "permanent": true
+    },
+    {
+      "source": "/reports/",
+      "destination": "/publications/?type=report",
+      "permanent": true
+    },
+    {
+      "source": "/materials/",
+      "destination": "/publications/",
+      "permanent": true
+    },
+    {
+      "source": "/issues/",
+      "destination": "/our-work/global-charter/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/",
+      "destination": "/events/",
+      "permanent": true
+    },
+    {
+      "source": "/about-us/",
+      "destination": "/about/",
+      "permanent": true
+    },
+    {
+      "source": "/category/:path*",
+      "destination": "/news/",
+      "permanent": true
+    },
+    {
+      "source": "/tag/:path*",
+      "destination": "/news/",
+      "permanent": true
+    }
+  ]
+}

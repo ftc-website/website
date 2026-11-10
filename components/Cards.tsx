@@ -5,7 +5,7 @@ export function PublicationCard({ p, cover = '' }: { p: Publication; cover?: '' 
   return (
     <Link href={`/publications/${p.slug}/`} className="card">
       {p.cover ? (
-        <img src={p.cover} alt="" className="card-cover" />
+        <img src={p.cover} alt="" className="card-cover" style={{ objectPosition: 'top' }} />
       ) : (
         <div className={`card-cover ${cover}`} aria-hidden="true" />
       )}

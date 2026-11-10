@@ -4,6 +4,8 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "redirects": "node scripts/redirects.mjs",
+    "prebuild": "node scripts/redirects.mjs",
     "build": "next build",
     "start": "npx serve out"
   },

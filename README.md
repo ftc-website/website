@@ -55,6 +55,12 @@ Add `draft: true` to keep an entry off the site.
 
 `content/events/<name>.md` with `title`, `date`, `start` (YYYY-MM-DD), optional `end`, `place`, `link`, `summary`.
 
+## Old WordPress addresses
+
+Any content file can carry `legacyUrl: "/old/address/"`. Before each build, `scripts/redirects.mjs` turns these into permanent redirects in `vercel.json` (Vercel) and `public/.htaccess` (Hostinger/Apache), plus section-level rules for `/reports/`, `/materials/`, `/issues/`, `/conferences/`, `/category/` and `/tag/`.
+
+Files from the old site keep their original address under `public/wp-content/uploads/YYYY/MM/`, so existing links to PDFs keep working.
+
 ## Menu
 
 The main menu and its submenus are in `lib/site.ts`.
