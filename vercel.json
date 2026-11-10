@@ -1592,12 +1592,27 @@
       "permanent": true
     },
     {
+      "source": "/reports/toolkit-illicit-financial-flows/:path+",
+      "destination": "/publications/toolkit-illicit-financial-flows/",
+      "permanent": true
+    },
+    {
       "source": "/issues/",
       "destination": "/our-work/global-charter/",
       "permanent": true
     },
     {
+      "source": "/issues/:path*",
+      "destination": "/our-work/global-charter/",
+      "permanent": true
+    },
+    {
       "source": "/conferences/",
+      "destination": "/events/",
+      "permanent": true
+    },
+    {
+      "source": "/conferences/:path*",
       "destination": "/events/",
       "permanent": true
     },

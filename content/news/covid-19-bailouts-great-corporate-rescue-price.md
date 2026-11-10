@@ -17,7 +17,7 @@ Governments are responding to the crises with fiscal plans amounting to trillion
   
 First, corporate bailouts divert public funding from micro-, small- and medium-sized enterprises (MSMEs) which rarely have more than a month’s worth of operational reserve but employ the biggest chunk of the working population in developing countries. This is sure to result in cascading unemployment and business closures in the medium term, if by some stroke of luck, MSMEs survive initial shocks of the lockdowns.
 
-Second, big businesses and MNCs have historically contributed less than their fair share to government coffers and by extension, to public services, social protection and the realization of human rights. They benefitted from decades of tax competition and granting of [overly generous and unnecessary tax incentives](/reports/31710/).
+Second, big businesses and MNCs have historically contributed less than their fair share to government coffers and by extension, to public services, social protection and the realization of human rights. They benefitted from decades of tax competition and granting of [overly generous and unnecessary tax incentives](/publications/use-and-abuse-of-tax-breaks-how-tax-incentives-become-harmful/).
 
 Third, with the help of an industry of facilitators and enablers of illicit finance like the Big Four accounting firms, MNCs and big businesses have notoriously mastered the art of tax abuse and arbitrage to offshoring profits to tax havens, thus, bailing out on their own tax obligations to countries in which they operate.
 
@@ -36,4 +36,4 @@ Cooperation on eligibility criteria for bailouts is also important to ensure tha
 
 Finally, cooperation on tax matters should also ensure transparency and accountability around bailouts, and should certify if bailout funds are indeed being used for protecting jobs and livelihoods.
 
-An opportunity to discuss tax and transparency measures to raise countries' revenues ensuring they reach intended beneficiaries to respond to COVID crisis, is happening on May 28th, in the virtual conference, [Health versus Wealth? Tax and Transparency in the Age of COVID-19.](/healthvswealth28may/)
+An opportunity to discuss tax and transparency measures to raise countries' revenues ensuring they reach intended beneficiaries to respond to COVID crisis, is happening on May 28th, in the virtual conference, [Health versus Wealth? Tax and Transparency in the Age of COVID-19.](/news/healthvswealth28may/)

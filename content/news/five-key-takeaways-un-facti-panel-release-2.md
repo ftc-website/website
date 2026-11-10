@@ -6,7 +6,7 @@ summary: "Last week, the United Nations High-Level Panel on Financial Transparen
 legacyUrl: "/five-key-takeaways-un-facti-panel-release-2/"
 archive: true
 ---
-Last week, the United Nations High-Level Panel on Financial Transparency, Accountability, and Integrity (FACTI) Panel released its much-anticipated [findings](https://www.factipanel.org/). The momentous release, as FTC [wrote in response](/ftc-welcomes-un-factis-recommendations-warns-need-urgently-implemented/), "established a new global standard on financial transparency."
+Last week, the United Nations High-Level Panel on Financial Transparency, Accountability, and Integrity (FACTI) Panel released its much-anticipated [findings](https://www.factipanel.org/). The momentous release, as FTC [wrote in response](/news/ftc-welcomes-un-factis-recommendations-warns-need-urgently-implemented/), "established a new global standard on financial transparency."
 
 As FTC member Latindadd [wrote](https://www.latindadd.org/2021/02/25/recomendaciones-del-panel-facti-deben-ser-implementadas-con-urgencia-para-frenar-flujos-financieros-ilicitos/), the report is "an important piece of work for a generation of proposals for structural reforms in the global financial system." Or as FTC member Tax Justice Network [wrote](https://www.taxjustice.net/2021/02/25/a-tide-turning-moment-in-the-global-struggle-for-tax-justice/), it was a "tide-turning moment in the global struggle for tax justice." The FTC actually organized a [high-level event](https://www.youtube.com/watch?v=O46XWPAIb2s&amp%3Bfeature=youtu.be) the day after the UN FACTI Panel's report, discussing its implications and impact, which can be watched here:
 
@@ -17,7 +17,7 @@ But what did the FACTI Panel report actually find, and why was its final report 
 ## 1. Defining the terms
 
   
-For years, getting a handle on the actual financial impact of [illicit financial flows](/whats-an-illicit-financial-flow/) -- things like trade manipulation, organized crime, and corrupt payments to public officials -- and tax injustice has proven difficult, not least because so many of those financial flows rely on financial secrecy and financial anonymity. However, the UN's FACTI Panel report highlighted the following range of estimates, many of which are staggering. Among the FACTI Panel's findings:  
+For years, getting a handle on the actual financial impact of illicit financial flows -- things like trade manipulation, organized crime, and corrupt payments to public officials -- and tax injustice has proven difficult, not least because so many of those financial flows rely on financial secrecy and financial anonymity. However, the UN's FACTI Panel report highlighted the following range of estimates, many of which are staggering. Among the FACTI Panel's findings:  
 
   
 - Estimated private wealth held in secrecy jurisdictions and haven countries: **$7 trillion**
@@ -55,7 +55,7 @@ While the numbers in the FACTI Panel report offer clear insight into the magnitu
 
 Among the policies proposed by the FACTI Panel, perhaps none stood out more than the call to create a United Nations Tax Convention. As the report, which offered a total of 14 high-level recommendations, noted, "international tax norms, particularly tax-transparency standards, should be established through an open and inclusive legal instrument with universal participation," and should be done via a UN Tax Convention. Such a convention could create fair, impartial mechanisms for resolving international tax disputes, or provide for mechanisms of taxing multinational corporations.
 
-As FTC [wrote](/ftc-welcomes-un-factis-recommendations-warns-need-urgently-implemented/) in response to the call for a UN Tax Convention:  
+As FTC [wrote](/news/ftc-welcomes-un-factis-recommendations-warns-need-urgently-implemented/) in response to the call for a UN Tax Convention:  
 
 *The FTC particularly applauds FACTI’s calls to set up a UN Tax Convention, so that creating global tax standards is no longer led by bodies such as OECD, FATF and G20, which primarily represent the interests of countries in the global North and weakly aligned with human rights and sustainable development goals. This move would open the way for countries in the global South – including those most affected by the $500-$600 billion in revenue losses every year from profit-shifting by multinational companies – to finally have a say on how global finance is governed for the benefit of everyone, especially those most impacted by its harmful and abusive aspects.*
 

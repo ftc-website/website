@@ -28,4 +28,4 @@ In order to quickly boost revenue for the short term and to lay the ground work 
 
 Without a concerted, multi-pronged approach by global institutions to address the challenge of trade integrity, developing nations will continue to suffer the indignity of a second-class health system and will be at the mercy of the capriciousness of a deadly virus.
 
-An opportunity to discuss plugging such leakages due to the increasing need of resources amidst COVID is happening on May 28th, in the virtual conference, [Health versus Wealth? Tax and Transparency in the Age of COVID-19](/healthvswealth28may/).
+An opportunity to discuss plugging such leakages due to the increasing need of resources amidst COVID is happening on May 28th, in the virtual conference, [Health versus Wealth? Tax and Transparency in the Age of COVID-19](/news/healthvswealth28may/).

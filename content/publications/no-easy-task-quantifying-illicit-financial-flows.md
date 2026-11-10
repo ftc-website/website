@@ -17,15 +17,15 @@ View the infographic below, or download it by [clicking here](/wp-content/upload
 
 To view in other languages click the following links:  
 
-##### [Français](/reports/no-easy-task-quantifying-illicit-financial-flows-french/)
+##### [Français](/publications/no-easy-task-quantifying-illicit-financial-flows-french/)
 
   
 
-##### [Español](/reports/no-easy-task-quantifying-illicit-financial-flows-spanish/)
+##### [Español](/publications/no-easy-task-quantifying-illicit-financial-flows-spanish/)
 
   
 
-##### [Mandarin](/reports/no-easy-task-now-mandarin/)
+##### [Mandarin](/publications/no-easy-task-now-mandarin/)
 
   
 [![](/wp-content/uploads/2016/12/FTC_infographic_20170201_Eng.png)](/wp-content/uploads/2016/12/FTC_infographic_20170201_Eng.png)

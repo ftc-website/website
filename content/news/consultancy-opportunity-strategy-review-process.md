@@ -15,6 +15,6 @@ This has in turn supported our focus on the **ABC of financial transparency** as
 
 We are now building our strategy for the years 2026-2028, and would like to gain greater inputs through this consultancy from both internal and external stakeholders.
 
-[EN-TOR\_for\_FTC\_strategy\_Dec\_2025](/consultancy-opportunity-strategy-review-process/en-tor_for_ftc_strategy_dec_2025/)
+[EN-TOR\_for\_FTC\_strategy\_Dec\_2025](/wp-content/uploads/2025/12/EN-TOR_for_FTC_strategy_Dec_2025.pdf)
 
-[ES-TdR\_Estrategia\_FTC\_2025](/consultancy-opportunity-strategy-review-process/es-tdr_estrategia_ftc_2025/)
+[ES-TdR\_Estrategia\_FTC\_2025](/wp-content/uploads/2025/12/ES-TdR_Estrategia_FTC_2025.pdf)

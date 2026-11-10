@@ -10,7 +10,7 @@ archive: true
 
 ***The pandemic has laid bare our preexisting fault lines. How governments respond fiscally to tackle the COVID pandemic will determine their ability to respond and the subsequent recovery.***
 
-Therefore, there is an urgent need to discuss in depth the measures and actions what policy makers must prioritize to manage the fiscal burden from COVID-19. A great opportunity to do so is about to happen on Thursday the 28th of May, in the virtual conference [Health versus Wealth? Tax and Transparency in the Age of COVID-19.](/healthvswealth28may/)
+Therefore, there is an urgent need to discuss in depth the measures and actions what policy makers must prioritize to manage the fiscal burden from COVID-19. A great opportunity to do so is about to happen on Thursday the 28th of May, in the virtual conference [Health versus Wealth? Tax and Transparency in the Age of COVID-19.](/news/healthvswealth28may/)
 
 Tax justice and financial transparency are ever more urgent. Will those who are already worst affected and most vulnerable in face of the health, humanitarian and economic crisis pay the price in terms of austerity policies, cuts in public services and crippling debt servicing?  Or will we mobilise resources from those who can pay: corporations and the wealthy?
 
@@ -44,4 +44,4 @@ The recovery from the pandemic necessitates the need for just and sustainable ec
 
 *Inputs from Matti Kohonen, Christian Aid.*
 
-[**Please join us on Thursday 28th of May (13.00-15.30 Coordinated Universal Time) for an expert discussion** **considering what policy makers must prioritize to manage the fiscal burden from COVID-19**](/healthvswealth28may/)
+[**Please join us on Thursday 28th of May (13.00-15.30 Coordinated Universal Time) for an expert discussion** **considering what policy makers must prioritize to manage the fiscal burden from COVID-19**](/news/healthvswealth28may/)

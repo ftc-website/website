@@ -19,6 +19,6 @@ Yet TNCs enjoy unique global synergies and advantages that come from combining e
 
 This international tax system is dominated by the Organisation of Economic Cooperation and Development (OECD). The OECD’s Fiscal Committee, consisting of unelected state officials, presides over an increasingly complex set of rules which they are also responsible for applying. Its often arbitrary decisions involve billions of dollars of taxes – yet it is effectively unaccountable.
 
-Read the new report, *Towards Unitary Taxation of Transnational Corporations* by Sol Picciotto, emeritus professor at Lancaster University, senior adviser with Tax Justice Network and author of International Business Taxation (1992), and Regulating Global Corporate Capitalism (2011), [here](/wp-content/uploads/2012/12/Towards_Unitary_Taxation-1-1.pdf?80f948).
+Read the new report, *Towards Unitary Taxation of Transnational Corporations* by Sol Picciotto, emeritus professor at Lancaster University, senior adviser with Tax Justice Network and author of International Business Taxation (1992), and Regulating Global Corporate Capitalism (2011), [here](/wp-content/uploads/2015/04/Towards_Unitary_Taxation-1-1.pdf?80f948).
 
 [Download the report here](/wp-content/uploads/2015/04/Towards_Unitary_Taxation-1-1.pdf)

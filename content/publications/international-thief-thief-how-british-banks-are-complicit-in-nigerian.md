@@ -9,7 +9,7 @@ languages:
 archive: true
 ---
 
-*A new report from Global Witness, a [coordinating committee](/2010/10/11/about/coordinating-committee/) member of the Task Force on Financial Integrity & Economic Development, exposes British banks for facilitating corruption in Nigeria*
+*A new report from Global Witness, a coordinating committee member of the Task Force on Financial Integrity & Economic Development, exposes British banks for facilitating corruption in Nigeria*
 
 LONDON (Global Witness)—British high street banks have accepted millions of pounds in deposits from corrupt Nigerian politicians, raising serious questions about their commitment to tackling financial crime, warned Global Witness in a report published today. By taking money from corrupt Nigerian governors between 1999 and 2005, Barclays, NatWest, RBS, HSBC and UBS helped to fuel corruption and entrench poverty in Nigeria.
 

@@ -28,8 +28,11 @@ for (const [dir, base] of Object.entries(sections)) {
 const fixed = [
   ['/reports/', '/publications/?type=report'],
   ['/materials/', '/publications/'],
+  ['/reports/toolkit-illicit-financial-flows/:path+', '/publications/toolkit-illicit-financial-flows/'],
   ['/issues/', '/our-work/global-charter/'],
+  ['/issues/:path*', '/our-work/global-charter/'],
   ['/conferences/', '/events/'],
+  ['/conferences/:path*', '/events/'],
   ['/about-us/', '/about/'],
   ['/category/:path*', '/news/'],
   ['/tag/:path*', '/news/'],
@@ -49,8 +52,9 @@ const ht = [
   ...rules.map(([from, to]) => `RewriteRule ^${esc(from)}$ ${to} [R=301,L]`),
   'RewriteRule ^reports/?$ /publications/?type=report [R=301,L]',
   'RewriteRule ^materials/?$ /publications/ [R=301,L]',
-  'RewriteRule ^issues/?$ /our-work/global-charter/ [R=301,L]',
-  'RewriteRule ^conferences/?$ /events/ [R=301,L]',
+  'RewriteRule ^reports/toolkit-illicit-financial-flows/.+ /publications/toolkit-illicit-financial-flows/ [R=301,L]',
+  'RewriteRule ^issues(/.*)?$ /our-work/global-charter/ [R=301,L]',
+  'RewriteRule ^conferences(/.*)?$ /events/ [R=301,L]',
   'RewriteRule ^about-us/?$ /about/ [R=301,L]',
   'RewriteRule ^(category|tag)/ /news/ [R=301,L]',
 ];

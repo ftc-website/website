@@ -9,7 +9,7 @@ archive: true
 <div class="video"><iframe src="https://www.youtube.com/embed/lr9Lv1ndHXY" title="Video" loading="lazy" allowfullscreen></iframe></div>
 <div class="video"><iframe src="https://www.youtube.com/embed/Yiq2eMHfbqw" title="Video" loading="lazy" allowfullscreen></iframe></div>
 
-Read the full report [here](/reports/recovery-at-a-crossroads/).  
+Read the full report [here](/publications/recovery-at-a-crossroads/).  
 
   
 - **Only 38 percent of Covid-19 recovery funds in 21 developing countries analyzed went to urgent social protection measures****. Women received half as much funds as men, almost no help for informal workers.**

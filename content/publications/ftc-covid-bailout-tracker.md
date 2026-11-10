@@ -7,7 +7,7 @@ legacyUrl: "/materials/ftc-covid-bailout-tracker/"
 archive: true
 ---
 
-In late April, the FTC revealed its new, flagship [Covid Bailout Tracker](/ftc-reveals-new-covid-bailout-tracker/). The findings were staggering—and, needless to say, received wide media coverage. Here's a sample of the dozens and dozens of stories, all around the world, covering the FTC's Covid Bailout Tracker launch:
+In late April, the FTC revealed its new, flagship [Covid Bailout Tracker](/news/ftc-reveals-new-covid-bailout-tracker/). The findings were staggering—and, needless to say, received wide media coverage. Here's a sample of the dozens and dozens of stories, all around the world, covering the FTC's Covid Bailout Tracker launch:
 
 —[Reuters](http://salsa4.salsalabs.com/dia/track.jsp?key=-1&url_num=4&url=https%3A%2F%2Fwww.reuters.com%2Farticle%2Fhealth-coronavirus-global-developing%2Fcompanies-not-poor-get-most-covid-19-aid-in-developing-world-says-study-idUSL4N2MF22S): "Companies, not poor, get most COVID-19 aid in developing world, says study"
 

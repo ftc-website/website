@@ -6,7 +6,7 @@ summary: "On April 27, the FTC hosted a high-level panel to discuss our new Covi
 legacyUrl: "/ftc-discusses-new-covid-bailout-tracker/"
 archive: true
 ---
-On April 27, the FTC hosted a high-level panel to discuss our new [Covid Bailout Tracker](/ftc-reveals-new-covid-bailout-tracker/), which revealed a set of staggering findings regarding governmental funding responses to the pandemic. The panel discussion, which can be viewed in its entirety [here](https://youtu.be/b1PRklpq7wQ?t=4) (and below), touched on a range of topics, from global minimum corporate taxes to those left behind by pandemic spending, and how the prioritization of the corporate sector has exacerbated existing gender, economic, and social divisions around the world.
+On April 27, the FTC hosted a high-level panel to discuss our new [Covid Bailout Tracker](/news/ftc-reveals-new-covid-bailout-tracker/), which revealed a set of staggering findings regarding governmental funding responses to the pandemic. The panel discussion, which can be viewed in its entirety [here](https://youtu.be/b1PRklpq7wQ?t=4) (and below), touched on a range of topics, from global minimum corporate taxes to those left behind by pandemic spending, and how the prioritization of the corporate sector has exacerbated existing gender, economic, and social divisions around the world.
 
 <div class="video"><iframe src="https://www.youtube.com/embed/b1PRklpq7wQ" title="Video" loading="lazy" allowfullscreen></iframe></div>
 

@@ -9,7 +9,7 @@ export const site = {
   url: process.env.NEXT_PUBLIC_SITE_URL || 'https://financialtransparency.org',
   // While this is "true" the site asks search engines not to index it (preview).
   isPreview: process.env.NEXT_PUBLIC_PREVIEW !== 'false',
-  contactEmail: '[contact email]',
+  contactEmail: 'info@financialtransparency.org',
 };
 
 export type NavLink = { label: string; href: string; desc?: string };

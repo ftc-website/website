@@ -8,7 +8,7 @@ archive: true
 ---
 <div class="video"><iframe src="https://www.youtube.com/embed/-0LJIO4Xrt0" title="Video" loading="lazy" allowfullscreen></iframe></div>
 
-Lea el informe completo [aqui.](/reports/recovery-at-a-crossroads/)  
+Lea el informe completo [aqui.](/publications/recovery-at-a-crossroads/)  
 
   
 - **Sólo el 38 por ciento de los fondos de recuperación de Covid-19 en 21 países en desarrollo analizados -10 de ellos en Latinoamérica- fueron** **a medidas urgentes de protección social, y** **casi** **no hubo ayuda para los trabajadores informales.**

@@ -104,7 +104,7 @@ Mob: ![](chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/call_skype_logo.png
 **For media based in South Africa** or to register for the press conference, request interviews, organise camera positions, or ask any questions, please contact:
 
 Gennaro Pisapia  
-[gennaro.pisapia@cape.magna-carta.co.za](/2010/Desktop/AFRICA%20PROGRESS%20REPORT%202010%20PRESS%20KIT/PRESS%20RELEASES/gennaro.pisapia@cape.magna-carta.co.za)  
+gennaro.pisapia@cape.magna-carta.co.za  
 Tel: ![](chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/call_skype_logo.png)+ 27 (0) 21 417 5724  
 Mob: ![](chrome-extension://lifbcibllhkdhoafpjfnlhfpfgnpldfl/call_skype_logo.png)+ 27 (0) 72 434 8515
 

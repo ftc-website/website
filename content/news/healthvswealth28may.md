@@ -59,17 +59,17 @@ Lima 8 a.m., Washington DC 9 a.m., Buenos Aires 10 a.m., London 2 p.m., Brussels
 
 **Blogs & Background Material**
 
-[Health versus Wealth? The 'measure' of our responses to COVID-19](/health-versus-wealth-measure-responses-covid-19/), **Sakshi Rai**, CBGA
+[Health versus Wealth? The 'measure' of our responses to COVID-19](/news/health-versus-wealth-measure-responses-covid-19/), **Sakshi Rai**, CBGA
 
-[Trade Integrity to Fight COVID-19](/trade-integrity-fight-covid-19/), **Tom Cardamone,** GFI
+[Trade Integrity to Fight COVID-19](/news/trade-integrity-fight-covid-19/), **Tom Cardamone,** GFI
 
-['COVID-19 Bailouts': The great corporate rescue at any price?](/covid-19-bailouts-great-corporate-rescue-price/) **Neeti Biyani**, CBGA and **Alvic Padilla**, Christian Aid
+['COVID-19 Bailouts': The great corporate rescue at any price?](/news/covid-19-bailouts-great-corporate-rescue-price/) **Neeti Biyani**, CBGA and **Alvic Padilla**, Christian Aid
 
-[Deuda y Fuga: Que el endeudamiento por la pandemia no termine engrosando la fuga de capitales,](/deuda-y-fuga-que-el-endeudamiento-por-la-pandemia-no-termine-engrosando-la-fuga-de-capitales/) **Latindadd**
+[Deuda y Fuga: Que el endeudamiento por la pandemia no termine engrosando la fuga de capitales,](/news/deuda-y-fuga-que-el-endeudamiento-por-la-pandemia-no-termine-engrosando-la-fuga/) **Latindadd**
 
-[How to pay for a pandemic? Tax the unearned profits](/pay-pandemic-tax-unearned-profits/), **Alex Cobham**, Tax Justice Network
+[How to pay for a pandemic? Tax the unearned profits](/news/pay-pandemic-tax-unearned-profits/), **Alex Cobham**, Tax Justice Network
 
-[Covid-19 and the Response that's needed](/materials/covid-19-response-thats-needed/), **Financial Transparency Coalition**
+[Covid-19 and the Response that's needed](/publications/covid-19-response-thats-needed/), **Financial Transparency Coalition**
 
 [Media Advisory](/wp-content/uploads/2020/05/Health-vs.-Wealth-Media-Advisory-1.pdf)    [Elementos para la Prensa](/wp-content/uploads/2020/05/Proteger-la-salud-o-beneficiar-al-capital-Elementos-para-Prensa.pdf)     [Éléments pour la Presse](/wp-content/uploads/2020/05/ELEMENTS-POUR-LA-PRESSE-MEDIA-ADVISORY-FR-FINAL-2.pdf)
 

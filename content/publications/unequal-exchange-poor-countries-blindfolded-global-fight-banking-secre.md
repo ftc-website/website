@@ -13,6 +13,6 @@ In our new analysis, *Unequal Exchange*, we explore just how far one key transp
 
 In our analysis of information exchange agreements in place around the globe, we found a stark political reality in which high-income countries receive the lion's share of information, while some of the world's poorest are receiving none at all. Three of the five agreements analyzed only involve European or European-linked jurisdictions, while FATCA, which involves a range of developing countries, in many cases requires that they provide information to the U.S. without receiving any in return.  
 
-##### View the full microsite and our data [here](/unequal-exchange/).
+##### View the full microsite and our data here.
 
 [![](/wp-content/uploads/2017/10/Screen-Shot-2017-10-19-at-3.11.33-PM.png)](/wp-content/uploads/2017/10/Screen-Shot-2017-10-19-at-3.11.33-PM.png)

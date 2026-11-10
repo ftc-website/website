@@ -6,7 +6,7 @@ summary: "The Executive Committee of the Financial Transparency Coalition (FTC) 
 legacyUrl: "/financial-transparency-coalition-appoints-new-director/"
 archive: true
 ---
-The Executive Committee of the Financial Transparency Coalition (FTC) has appointed a new permanent Director. Matti Kohonen has succeeded Eryn Schornick, who helped steer the FTC to [multiple policy successes over the past year](/combat-illicit-financial-flows-pandemic/) as FTC interim director and who will remain as executive adviser to the Coalition. 
+The Executive Committee of the Financial Transparency Coalition (FTC) has appointed a new permanent Director. Matti Kohonen has succeeded Eryn Schornick, who helped steer the FTC to [multiple policy successes over the past year](/news/combat-illicit-financial-flows-pandemic/) as FTC interim director and who will remain as executive adviser to the Coalition. 
 
 Kohonen brings years of experience in expertise and advocacy for both tax fairness and financial transparency to the FTC. Kohonen has worked over 10 years on the impact of financial and tax policies on developing countries and populations, most recently working at the UK-based NGO Christian Aid as the Principal Advisor on the Private Sector, where he focused on ensuring that the private sector is a responsible and accountable actor in global development. He’s previously held a variety of positions in the NGO sector and beyond, including serving as an EU policy advisor for Oxfam International. He is also a founding member of the Tax Justice Network and has been actively involved in the Financing for Development (FfD) process at the UN. 
 
@@ -22,7 +22,7 @@ As Kohonen said, one of his first priorities will be helping FTC launch its fort
 
 ###### *El nuevo director, experto y veterano del mundo de la politica financiera, ve una oportunidad única actualmente de impulsar la equidad fiscal y la transparencia financiera*
 
-El cómite ejecutivo de la Financial Transparency Coalition (FTC) ha designado a un nuevo director ejecutivo. Matti Kohonen será el sucesor de Eryn Schornick, quien ayudó a dirigir a la FTC hacia [múltiples éxistos políticos](/combat-illicit-financial-flows-pandemic/) durante el año pasado en su puesto temporal en la presidencia y que permanecerá como consultora ejecutiva de la Coalición.
+El cómite ejecutivo de la Financial Transparency Coalition (FTC) ha designado a un nuevo director ejecutivo. Matti Kohonen será el sucesor de Eryn Schornick, quien ayudó a dirigir a la FTC hacia [múltiples éxistos políticos](/news/combat-illicit-financial-flows-pandemic/) durante el año pasado en su puesto temporal en la presidencia y que permanecerá como consultora ejecutiva de la Coalición.
 
 Kohonen traerá a la FTC todos sus años de experiencia en la  defensa de la equidad fiscal y la transparencia financiera. Kohonen ha trabajado más de 10 años investigando el impacto de las políticas financieras y fiscales en los países y poblaciones en desarrollo. Recientemente trabajó en Christian Aid, una ONG con base en el Reino Unido, como consultor principal del sector privado donde luchó para que el sector privado sea un actor responsible en el desarrollo global.
 

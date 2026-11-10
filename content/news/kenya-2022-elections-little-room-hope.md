@@ -40,7 +40,7 @@ Kenya is holding its presidential elections on August 9th, amid a surge in cost
 
   
 
- Amid this context, financial transparency reforms are crucial to generate enough funds for healthcare and social protection, and fund development. This is especially relevant since [92 percent of Covid-19 bailout funds in Kenya in 2020 went to big corporations](/reports/ftc-reveals-new-covid-bailout-tracker/) instead of social protection and supporting informal workers and small businesses, according to the Financial Transparency Coalition, meaning that those most affected by the crisis have received the least support.
+ Amid this context, financial transparency reforms are crucial to generate enough funds for healthcare and social protection, and fund development. This is especially relevant since [92 percent of Covid-19 bailout funds in Kenya in 2020 went to big corporations](/publications/ftc-reveals-new-covid-bailout-tracker/) instead of social protection and supporting informal workers and small businesses, according to the Financial Transparency Coalition, meaning that those most affected by the crisis have received the least support.
 
   
 
