@@ -8,7 +8,7 @@ export const dynamic = 'force-static';
 export default function sitemap(): MetadataRoute.Sitemap {
   const url = (p: string) => `${site.url}${p}`;
   const fixed = [
-    '/', '/about/', '/about/strategy/', '/about/members/', '/about/secretariat/',
+    '/', '/about/', '/about/strategy/', '/about/members/', '/about/secretariat/', '/about/brand/',
     '/our-work/', '/publications/', '/news/', '/events/', '/newsletter/', '/contact/', '/privacy/',
   ].map((p) => ({ url: url(p) }));
   const projects = getProjects().map((p) => ({ url: url(`/our-work/${p.slug}/`) }));

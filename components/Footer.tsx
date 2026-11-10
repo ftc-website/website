@@ -28,6 +28,7 @@ export default function Footer() {
               <strong>Contact</strong>
               <Link href="/contact/">Contact us</Link>
               <Link href="/newsletter/">Newsletter</Link>
+              <Link href="/about/brand/">Brand and media kit</Link>
             </div>
           </div>
         </div>
